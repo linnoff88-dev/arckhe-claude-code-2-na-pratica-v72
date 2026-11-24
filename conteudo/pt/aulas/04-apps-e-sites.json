@@ -1,12 +1,12 @@
-{
+﻿{
   "slug": "apps-e-sites",
   "num": 4,
   "menu": "Apps e sites",
-  "titulo": "Apps e sites: o Claude usa por você, com as suas regras",
+  "titulo": "Apps e sites: o Claude usa por vocÃª, com as suas regras",
   "titulo_curto": "Apps e sites",
   "minutos": 16,
-  "lead": "Nem todo programa ou site tem um jeito fácil de automatizar. Agora o Claude pode usar um app do seu computador (computer use) ou um site, pelo navegador que vem dentro do app. Poder fazer não quer dizer que deva fazer tudo. Nesta aula você libera só o necessário e roda uma tarefa só de leitura num site seu, conferindo que nada mudou.",
-  "objetivo": "Deixar o Claude usar programas do computador e sites por você, liberando só o necessário.",
+  "lead": "Nem todo programa ou site tem um jeito fÃ¡cil de automatizar. Agora o Claude pode usar um app do seu computador (computer use) ou um site, pelo navegador que vem dentro do app. Poder fazer nÃ£o quer dizer que deva fazer tudo. Nesta aula vocÃª libera sÃ³ o necessÃ¡rio e roda uma tarefa sÃ³ de leitura num site seu, conferindo que nada mudou.",
+  "objetivo": "Deixar o Claude usar programas do computador e sites por vocÃª, liberando sÃ³ o necessÃ¡rio.",
   "competencias": [
     "escolher-entre-app-e-site",
     "pedir-tarefa-so-de-leitura",
@@ -16,15 +16,15 @@
   "aprende": [
     {
       "icone": "chip",
-      "t": "O que é o computer use e onde ele funciona"
+      "t": "O que Ã© o computer use e onde ele funciona"
     },
     {
       "icone": "lupa",
-      "t": "Abrir o navegador embutido e fazer você mesmo o login"
+      "t": "Abrir o navegador embutido e fazer vocÃª mesmo o login"
     },
     {
       "icone": "escudo",
-      "t": "As regras do meio: só leitura e pergunte antes"
+      "t": "As regras do meio: sÃ³ leitura e pergunte antes"
     },
     {
       "icone": "check",
@@ -50,11 +50,11 @@
             },
             {
               "icone": "cadeado",
-              "t": "Gravação de Tela",
+              "t": "GravaÃ§Ã£o de Tela",
               "sub": "no Mac"
             }
           ],
-          "detalhe": "Computer use é o Claude usando um programa do seu computador: ele clica e digita dentro do app; no Mac, em segundo plano, sem tomar o seu mouse. Serve para programa que não tem outro jeito de automatizar. Está em teste (prévia), no Mac e no Windows, nos planos Pro, Max e Ultra, e não vale para Team e Enterprise. Vem desligado. No Mac, você libera Acessibilidade e Gravação de Tela."
+          "detalhe": "Computer use Ã© o Claude usando um programa do seu computador: ele clica e digita dentro do app; no Mac, em segundo plano, sem tomar o seu mouse. Serve para programa que nÃ£o tem outro jeito de automatizar. EstÃ¡ em teste (prÃ©via), no Mac e no Windows, nos planos Pro, Max e Ultra, e nÃ£o vale para Team e Enterprise. Vem desligado. No Mac, vocÃª libera Acessibilidade e GravaÃ§Ã£o de Tela."
         },
         {
           "icone": "escudo",
@@ -64,7 +64,7 @@
           "itens": [
             {
               "icone": "lupa",
-              "t": "Só leitura"
+              "t": "SÃ³ leitura"
             },
             {
               "icone": "chat",
@@ -72,10 +72,10 @@
             },
             {
               "icone": "cadeado",
-              "t": "Só o necessário"
+              "t": "SÃ³ o necessÃ¡rio"
             }
           ],
-          "detalhe": "As regras não são um botão: você escreve no pedido. \"Só leitura\" quer dizer não publicar, não responder, não apagar e não alterar nada. \"Pergunte antes\" quer dizer parar e perguntar antes de qualquer coisa que mude o app ou o site. E libere só o app daquele trabalho, não tudo o que ele pedir."
+          "detalhe": "As regras nÃ£o sÃ£o um botÃ£o: vocÃª escreve no pedido. \"SÃ³ leitura\" quer dizer nÃ£o publicar, nÃ£o responder, nÃ£o apagar e nÃ£o alterar nada. \"Pergunte antes\" quer dizer parar e perguntar antes de qualquer coisa que mude o app ou o site. E libere sÃ³ o app daquele trabalho, nÃ£o tudo o que ele pedir."
         },
         {
           "icone": "lupa",
@@ -88,14 +88,14 @@
             },
             {
               "icone": "usuario",
-              "t": "Você faz o login"
+              "t": "VocÃª faz o login"
             }
           ],
-          "detalhe": "O app do Claude tem um navegador próprio. Abra com Cmd + Shift + B no Mac (Ctrl + Shift + B no Windows). Você entra na sua conta uma vez, e o Claude lê páginas e clica por você. No computer use, os navegadores do computador (Chrome, Safari) ficam só para ver: para usar sites, o caminho é este."
+          "detalhe": "O app do Claude tem um navegador prÃ³prio. Abra com Cmd + Shift + B no Mac (Ctrl + Shift + B no Windows). VocÃª entra na sua conta uma vez, e o Claude lÃª pÃ¡ginas e clica por vocÃª. No computer use, os navegadores do computador (Chrome, Safari) ficam sÃ³ para ver: para usar sites, o caminho Ã© este."
         }
       ],
-      "legenda": "Programa do computador → computer use. Site → navegador embutido. As regras valem para os dois. Os dois só existem no app para Mac e Windows; no Linux não há app.",
-      "dica": "Na dúvida, comece pelo site, só leitura: é o caminho mais fácil de conferir."
+      "legenda": "Programa do computador â†’ computer use. Site â†’ navegador embutido. As regras valem para os dois. Os dois sÃ³ existem no app para Mac e Windows; no Linux nÃ£o hÃ¡ app.",
+      "dica": "Na dÃºvida, comece pelo site, sÃ³ leitura: Ã© o caminho mais fÃ¡cil de conferir."
     },
     {
       "tipo": "passos",
@@ -107,47 +107,47 @@
           "sub": "Cmd/Ctrl + Shift + B",
           "texto": [
             "No app do Claude (aba Code), aperte Cmd + Shift + B no Mac (Ctrl + Shift + B no Windows). Abre um navegador dentro do app.",
-            "Entre no site e faça o login você mesmo. Depois peça o trabalho em palavras, na conversa."
+            "Entre no site e faÃ§a o login vocÃª mesmo. Depois peÃ§a o trabalho em palavras, na conversa."
           ],
           "exemplo": {
             "rot": "Regra de ouro",
-            "texto": "Senha nunca vai na conversa. Quem digita a senha no navegador é você."
+            "texto": "Senha nunca vai na conversa. Quem digita a senha no navegador Ã© vocÃª."
           }
         },
         {
           "titulo": "Computer use",
           "sub": "vem desligado",
           "texto": [
-            "Ligue o computer use nas configurações do app (Settings). Se não achar, pergunte ao Claude na aba Code: \"onde ligo o computer use neste app?\". No Mac, o sistema pede duas permissões: Acessibilidade (para clicar e digitar) e Gravação de Tela (para ver a tela).",
-            "Quando o Claude pedir para usar um app, libere só o app daquele trabalho."
+            "Ligue o computer use nas configuraÃ§Ãµes do app (Settings). Se nÃ£o achar, pergunte ao Claude na aba Code: \"onde ligo o computer use neste app?\". No Mac, o sistema pede duas permissÃµes: Acessibilidade (para clicar e digitar) e GravaÃ§Ã£o de Tela (para ver a tela).",
+            "Quando o Claude pedir para usar um app, libere sÃ³ o app daquele trabalho."
           ],
           "exemplo": {
             "rot": "Bom uso",
-            "texto": "Organizar os prints da Área de Trabalho em pastas por mês. Exportar um vídeo num editor que não tem outra automação."
+            "texto": "Organizar os prints da Ãrea de Trabalho em pastas por mÃªs. Exportar um vÃ­deo num editor que nÃ£o tem outra automaÃ§Ã£o."
           }
         },
         {
           "titulo": "Onde funciona",
           "sub": "planos e sistemas",
           "texto": [
-            "O navegador embutido está no app para Mac e Windows. O computer use está em teste (prévia), no Mac e no Windows, nos planos Pro, Max e Ultra; não vale para Team e Enterprise.",
-            "No Linux não há app: o Claude Code roda no terminal, sem esses dois recursos. Planos e liberação mudam, então confira no seu app."
+            "O navegador embutido estÃ¡ no app para Mac e Windows. O computer use estÃ¡ em teste (prÃ©via), no Mac e no Windows, nos planos Pro, Max e Ultra; nÃ£o vale para Team e Enterprise.",
+            "No Linux nÃ£o hÃ¡ app: o Claude Code roda no terminal, sem esses dois recursos. Planos e liberaÃ§Ã£o mudam, entÃ£o confira no seu app."
           ],
           "exemplo": {
             "rot": "Lembre",
-            "texto": "No computer use, navegadores são só para ver. Site se usa pelo navegador embutido."
+            "texto": "No computer use, navegadores sÃ£o sÃ³ para ver. Site se usa pelo navegador embutido."
           }
         },
         {
-          "titulo": "Só leitura",
+          "titulo": "SÃ³ leitura",
           "sub": "de verdade",
           "texto": [
-            "Antes da tarefa, anote um sinal que mudaria se algo fosse alterado: o número de posts, de rascunhos ou a data da última edição.",
-            "Depois da tarefa, olhe o mesmo sinal. Igual quer dizer que nada mudou. Mantenha também o app atualizado antes de abrir sites."
+            "Antes da tarefa, anote um sinal que mudaria se algo fosse alterado: o nÃºmero de posts, de rascunhos ou a data da Ãºltima ediÃ§Ã£o.",
+            "Depois da tarefa, olhe o mesmo sinal. Igual quer dizer que nada mudou. Mantenha tambÃ©m o app atualizado antes de abrir sites."
           ],
           "exemplo": {
             "rot": "Frase pronta",
-            "texto": "Não publique, não responda, não apague e não altere nada no site. Se precisar mudar algo, pare e me pergunte."
+            "texto": "NÃ£o publique, nÃ£o responda, nÃ£o apague e nÃ£o altere nada no site. Se precisar mudar algo, pare e me pergunte."
           }
         }
       ]
@@ -155,22 +155,22 @@
     {
       "tipo": "codigo",
       "titulo": "Os pedidos da Carla",
-      "sub": "Copie e adapte. Troque o que está entre < > pelo seu. Nos prints: no Mac, o computer use trabalha em segundo plano; no Windows, não mexa no mouse nem no teclado enquanto o Claude trabalha.",
+      "sub": "Copie e adapte. Troque o que estÃ¡ entre < > pelo seu. Nos prints: no Mac, o computer use trabalha em segundo plano; no Windows, nÃ£o mexa no mouse nem no teclado enquanto o Claude trabalha.",
       "blocos": [
         {
-          "rot": "Navegador embutido · só leitura",
+          "rot": "Navegador embutido Â· sÃ³ leitura",
           "icone": "lupa",
-          "conteudo": "Abra no navegador a página da minha comunidade de alunos. Já fiz o login.\nLeia os 30 posts mais recentes.\nListe as 5 perguntas que mais se repetem, cada uma com o link de um post onde ela aparece.\nSalve a lista em comunidade/perguntas.md.\nNão publique, não responda, não apague e não altere nada no site.\nSe precisar mudar algo, pare e me pergunte."
+          "conteudo": "Abra no navegador a pÃ¡gina da minha comunidade de alunos. JÃ¡ fiz o login.\nLeia os 30 posts mais recentes.\nListe as 5 perguntas que mais se repetem, cada uma com o link de um post onde ela aparece.\nSalve a lista em comunidade/perguntas.md.\nNÃ£o publique, nÃ£o responda, nÃ£o apague e nÃ£o altere nada no site.\nSe precisar mudar algo, pare e me pergunte."
         },
         {
-          "rot": "Computer use · organizar prints (opcional)",
+          "rot": "Computer use Â· organizar prints (opcional)",
           "icone": "chip",
-          "conteudo": "Use o computer use.\nAntes de começar, conte quantos arquivos de print estão na minha Área de Trabalho e me diga.\nCrie a pasta \"Prints\" e, dentro dela, uma pasta por mês. Mova cada print para o mês dele.\nNão apague nada e não renomeie nada.\nNo fim, me diga quantos arquivos moveu."
+          "conteudo": "Use o computer use.\nAntes de comeÃ§ar, conte quantos arquivos de print estÃ£o na minha Ãrea de Trabalho e me diga.\nCrie a pasta \"Prints\" e, dentro dela, uma pasta por mÃªs. Mova cada print para o mÃªs dele.\nNÃ£o apague nada e nÃ£o renomeie nada.\nNo fim, me diga quantos arquivos moveu."
         },
         {
-          "rot": "Modelo · um site seu",
+          "rot": "Modelo Â· um site seu",
           "icone": "copiar",
-          "conteudo": "Abra no navegador <endereço ou nome do seu site>. Já fiz o login.\nLeia <o que ler: últimos posts, pedidos da semana, comentários do último vídeo>.\nListe <o que você quer saber, com quantidade>.\nSalve em <arquivo.md>.\nNão publique, não responda, não apague e não altere nada no site.\nSe precisar mudar algo, pare e me pergunte."
+          "conteudo": "Abra no navegador <endereÃ§o ou nome do seu site>. JÃ¡ fiz o login.\nLeia <o que ler: Ãºltimos posts, pedidos da semana, comentÃ¡rios do Ãºltimo vÃ­deo>.\nListe <o que vocÃª quer saber, com quantidade>.\nSalve em <arquivo.md>.\nNÃ£o publique, nÃ£o responda, nÃ£o apague e nÃ£o altere nada no site.\nSe precisar mudar algo, pare e me pergunte."
         }
       ],
       "saida": {
@@ -178,49 +178,49 @@
         "abas": [
           {
             "rot": "O que o Claude devolveu",
-            "html": "<p>Li os 30 posts mais recentes da comunidade. Salvei a lista em comunidade/perguntas.md.</p><ol><li>Como travar a primeira linha da planilha? (6 posts)</li><li>Por que o PROCV devolve #N/D? (5 posts)</li><li>Dá para fazer a aula no celular? (4 posts)</li><li>Como somar só os valores de um mês? (4 posts)</li><li>Onde baixo a planilha da aula 1? (3 posts)</li></ol><p>Cada pergunta tem o link de um post no arquivo. Não publiquei, não respondi e não alterei nada. Vi um post com propaganda de outro curso; deixei o link no fim do arquivo para você decidir.</p>"
+            "html": "<p>Li os 30 posts mais recentes da comunidade. Salvei a lista em comunidade/perguntas.md.</p><ol><li>Como travar a primeira linha da planilha? (6 posts)</li><li>Por que o PROCV devolve #N/D? (5 posts)</li><li>DÃ¡ para fazer a aula no celular? (4 posts)</li><li>Como somar sÃ³ os valores de um mÃªs? (4 posts)</li><li>Onde baixo a planilha da aula 1? (3 posts)</li></ol><p>Cada pergunta tem o link de um post no arquivo. NÃ£o publiquei, nÃ£o respondi e nÃ£o alterei nada. Vi um post com propaganda de outro curso; deixei o link no fim do arquivo para vocÃª decidir.</p>"
           },
           {
             "rot": "Como conferir que nada mudou",
-            "html": "<ol><li>Antes: anote o número de posts da comunidade e a data do seu último post.</li><li>Depois: olhe de novo. Os dois têm que estar iguais.</li><li>Abra comunidade/perguntas.md e clique em um link: o post existe e tem a pergunta.</li><li>Nos prints: compare o número de arquivos antes e depois. Tem que bater.</li></ol>"
+            "html": "<ol><li>Antes: anote o nÃºmero de posts da comunidade e a data do seu Ãºltimo post.</li><li>Depois: olhe de novo. Os dois tÃªm que estar iguais.</li><li>Abra comunidade/perguntas.md e clique em um link: o post existe e tem a pergunta.</li><li>Nos prints: compare o nÃºmero de arquivos antes e depois. Tem que bater.</li></ol>"
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>Pedido sem limite</b>: \"veja a comunidade e resolva o que precisar\" deixa o Claude responder e apagar posts.</li><li><b>Senha na conversa</b>: quem faz o login no navegador é você.</li><li><b>Liberar todo app</b>: libere só o app daquele trabalho.</li><li><b>Chrome pelo computer use</b>: ali navegadores são só para ver. Site é no navegador embutido.</li><li><b>App desatualizado</b>: atualize antes de abrir sites.</li></ul>"
+            "html": "<ul><li><b>Pedido sem limite</b>: \"veja a comunidade e resolva o que precisar\" deixa o Claude responder e apagar posts.</li><li><b>Senha na conversa</b>: quem faz o login no navegador Ã© vocÃª.</li><li><b>Liberar todo app</b>: libere sÃ³ o app daquele trabalho.</li><li><b>Chrome pelo computer use</b>: ali navegadores sÃ£o sÃ³ para ver. Site Ã© no navegador embutido.</li><li><b>App desatualizado</b>: atualize antes de abrir sites.</li></ul>"
           }
         ]
       }
     },
     {
       "tipo": "simconversa",
-      "titulo": "O Claude pergunta, você decide",
-      "sub": "Conversa simulada para treinar. A Carla pediu, no navegador embutido, a lista das perguntas mais repetidas da comunidade, só leitura. Escolha a resposta que você daria.",
+      "titulo": "O Claude pergunta, vocÃª decide",
+      "sub": "Conversa simulada para treinar. A Carla pediu, no navegador embutido, a lista das perguntas mais repetidas da comunidade, sÃ³ leitura. Escolha a resposta que vocÃª daria.",
       "personagem": {
         "nome": "Claude",
-        "papel": "no navegador embutido · tarefa só de leitura"
+        "papel": "no navegador embutido Â· tarefa sÃ³ de leitura"
       },
       "inicio": "abre",
       "falas": {
         "abre": {
-          "cliente": "Abri a página da sua comunidade. Para ver os posts dos alunos, o site pede login. Você me passa a sua senha?",
+          "cliente": "Abri a pÃ¡gina da sua comunidade. Para ver os posts dos alunos, o site pede login. VocÃª me passa a sua senha?",
           "opcoes": [
             {
               "t": "Passo sim. Vou escrever a senha aqui na conversa.",
               "vai": "fim-risco",
               "nota": 0,
-              "comenta": "Senha não vai na conversa. No navegador embutido, quem faz o login é você."
+              "comenta": "Senha nÃ£o vai na conversa. No navegador embutido, quem faz o login Ã© vocÃª."
             },
             {
-              "t": "Não. Eu mesma faço o login no navegador e te aviso quando entrar.",
+              "t": "NÃ£o. Eu mesma faÃ§o o login no navegador e te aviso quando entrar.",
               "vai": "spam",
               "nota": 2,
-              "comenta": "Isso. Você entra na conta uma vez, no navegador do app, e o Claude segue dali."
+              "comenta": "Isso. VocÃª entra na conta uma vez, no navegador do app, e o Claude segue dali."
             },
             {
-              "t": "Pule o que precisa de login e leia só o que estiver aberto ao público.",
+              "t": "Pule o que precisa de login e leia sÃ³ o que estiver aberto ao pÃºblico.",
               "vai": "spam",
               "nota": 1,
-              "comenta": "Seguro, mas a tarefa perde o principal: as perguntas estão nos posts dos alunos. Fazer o login você mesma resolve."
+              "comenta": "Seguro, mas a tarefa perde o principal: as perguntas estÃ£o nos posts dos alunos. Fazer o login vocÃª mesma resolve."
             }
           ]
         },
@@ -231,90 +231,90 @@
               "t": "Responda o post pedindo para a pessoa tirar a propaganda.",
               "vai": "chrome",
               "nota": 1,
-              "comenta": "Parece inofensivo, mas responder também muda o site. A tarefa era só leitura."
+              "comenta": "Parece inofensivo, mas responder tambÃ©m muda o site. A tarefa era sÃ³ leitura."
             },
             {
-              "t": "Apague, é spam.",
+              "t": "Apague, Ã© spam.",
               "vai": "fim-risco",
               "nota": 0,
-              "comenta": "A tarefa era só leitura, e apagar não tem volta. Decidir isso é com você, depois, olhando o post."
+              "comenta": "A tarefa era sÃ³ leitura, e apagar nÃ£o tem volta. Decidir isso Ã© com vocÃª, depois, olhando o post."
             },
             {
-              "t": "Não apague. Ponha o link desse post no fim da lista para eu ver depois.",
+              "t": "NÃ£o apague. Ponha o link desse post no fim da lista para eu ver depois.",
               "vai": "chrome",
               "nota": 2,
-              "comenta": "Boa. O Claude registra e você decide. A tarefa continua só de leitura."
+              "comenta": "Boa. O Claude registra e vocÃª decide. A tarefa continua sÃ³ de leitura."
             }
           ]
         },
         "chrome": {
-          "cliente": "Para comparar com a página do seu curso, posso abrir o Chrome do seu computador pelo computer use e preencher o formulário de inscrição com dados de teste?",
+          "cliente": "Para comparar com a pÃ¡gina do seu curso, posso abrir o Chrome do seu computador pelo computer use e preencher o formulÃ¡rio de inscriÃ§Ã£o com dados de teste?",
           "opcoes": [
             {
-              "t": "Pode abrir o Chrome, mas só para olhar a página do curso.",
+              "t": "Pode abrir o Chrome, mas sÃ³ para olhar a pÃ¡gina do curso.",
               "vai": "fim-bom",
               "nota": 1,
-              "comenta": "Funciona e é seguro: no computer use os navegadores são só para ver, e olhar não muda o site. Só não precisava: o navegador embutido já abre a página, com o seu login."
+              "comenta": "Funciona e Ã© seguro: no computer use os navegadores sÃ£o sÃ³ para ver, e olhar nÃ£o muda o site. SÃ³ nÃ£o precisava: o navegador embutido jÃ¡ abre a pÃ¡gina, com o seu login."
             },
             {
               "t": "Pode, use o Chrome e preencha com dados de teste.",
               "vai": "fim-risco",
               "nota": 0,
-              "comenta": "Duas coisas fora da regra: no computer use os navegadores são só para ver, e preencher formulário altera o site."
+              "comenta": "Duas coisas fora da regra: no computer use os navegadores sÃ£o sÃ³ para ver, e preencher formulÃ¡rio altera o site."
             },
             {
-              "t": "Não precisa. Fique no navegador embutido e não preencha nenhum formulário.",
+              "t": "NÃ£o precisa. Fique no navegador embutido e nÃ£o preencha nenhum formulÃ¡rio.",
               "vai": "fim-bom",
               "nota": 2,
-              "comenta": "Isso. Site é pelo navegador embutido, e formulário enviado muda o site."
+              "comenta": "Isso. Site Ã© pelo navegador embutido, e formulÃ¡rio enviado muda o site."
             }
           ]
         },
         "fim-bom": {
           "fim": true,
-          "titulo": "Tarefa só de leitura, do começo ao fim",
-          "texto": "O Claude leu, listou e salvou o arquivo, e nada mudou no site. Agora confira: o número de posts e a data do seu último post estão iguais aos de antes?"
+          "titulo": "Tarefa sÃ³ de leitura, do comeÃ§o ao fim",
+          "texto": "O Claude leu, listou e salvou o arquivo, e nada mudou no site. Agora confira: o nÃºmero de posts e a data do seu Ãºltimo post estÃ£o iguais aos de antes?"
         },
         "fim-risco": {
           "fim": true,
           "titulo": "Parou aqui",
-          "texto": "Numa tarefa só de leitura, você faz o login e o Claude só lê e lista. O que muda o site, ou expõe a sua senha, fica de fora. Recomece e tente de novo."
+          "texto": "Numa tarefa sÃ³ de leitura, vocÃª faz o login e o Claude sÃ³ lÃª e lista. O que muda o site, ou expÃµe a sua senha, fica de fora. Recomece e tente de novo."
         }
       },
-      "licao": "Você faz o login. O Claude lê e lista. Qualquer mudança no site, ele pergunta e você decide."
+      "licao": "VocÃª faz o login. O Claude lÃª e lista. Qualquer mudanÃ§a no site, ele pergunta e vocÃª decide."
     },
     {
       "tipo": "pratica",
-      "titulo": "Prática: uma tarefa só de leitura num site seu",
-      "sub": "Precisa do app do Claude no Mac ou no Windows. No Linux não há app: faça o E2 colando numa conversa o texto da página e pedindo a mesma lista.",
+      "titulo": "PrÃ¡tica: uma tarefa sÃ³ de leitura num site seu",
+      "sub": "Precisa do app do Claude no Mac ou no Windows. No Linux nÃ£o hÃ¡ app: faÃ§a o E2 colando numa conversa o texto da pÃ¡gina e pedindo a mesma lista.",
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "E1 · Antes",
+          "titulo": "E1 Â· Antes",
           "min": "5 min",
-          "texto": "Escolha um site seu: canal, loja, blog ou comunidade. No app, abra o navegador embutido (Cmd + Shift + B no Mac, Ctrl + Shift + B no Windows) e faça o login você mesmo. Anote um sinal que mudaria se algo fosse alterado: número de posts, de rascunhos ou a data da última edição.",
-          "pronto": "você está logado no navegador do app e o sinal está anotado num papel ou arquivo."
+          "texto": "Escolha um site seu: canal, loja, blog ou comunidade. No app, abra o navegador embutido (Cmd + Shift + B no Mac, Ctrl + Shift + B no Windows) e faÃ§a o login vocÃª mesmo. Anote um sinal que mudaria se algo fosse alterado: nÃºmero de posts, de rascunhos ou a data da Ãºltima ediÃ§Ã£o.",
+          "pronto": "vocÃª estÃ¡ logado no navegador do app e o sinal estÃ¡ anotado num papel ou arquivo."
         },
         {
           "id": "e2",
-          "titulo": "E2 · A tarefa",
+          "titulo": "E2 Â· A tarefa",
           "min": "15 min",
-          "texto": "Adapte o bloco \"Modelo · um site seu\" e cole na conversa. Espere o arquivo e a resposta. Depois olhe de novo o sinal que você anotou.",
-          "pronto": "o arquivo com a lista existe, você abriu um dos links e o sinal anotado está igual ao de antes."
+          "texto": "Adapte o bloco \"Modelo Â· um site seu\" e cole na conversa. Espere o arquivo e a resposta. Depois olhe de novo o sinal que vocÃª anotou.",
+          "pronto": "o arquivo com a lista existe, vocÃª abriu um dos links e o sinal anotado estÃ¡ igual ao de antes."
         },
         {
           "id": "e3",
-          "titulo": "E3 · Computer use (opcional)",
+          "titulo": "E3 Â· Computer use (opcional)",
           "min": "15 min",
-          "texto": "Só se você tem Mac ou Windows e plano Pro, Max ou Ultra. Ligue o computer use nas configurações do app (Settings); se não achar, pergunte ao Claude onde fica neste app. No Mac, libere Acessibilidade e Gravação de Tela. Conte os prints da Área de Trabalho e cole o pedido \"organizar prints\". No Windows, não mexa no mouse nem no teclado até o Claude terminar.",
-          "pronto": "a pasta Prints tem uma pasta por mês e o total de arquivos é igual ao que você contou antes."
+          "texto": "SÃ³ se vocÃª tem Mac ou Windows e plano Pro, Max ou Ultra. Ligue o computer use nas configuraÃ§Ãµes do app (Settings); se nÃ£o achar, pergunte ao Claude onde fica neste app. No Mac, libere Acessibilidade e GravaÃ§Ã£o de Tela. Conte os prints da Ãrea de Trabalho e cole o pedido \"organizar prints\". No Windows, nÃ£o mexa no mouse nem no teclado atÃ© o Claude terminar.",
+          "pronto": "a pasta Prints tem uma pasta por mÃªs e o total de arquivos Ã© igual ao que vocÃª contou antes."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaÃ§Ã£o aparece depois da sua resposta.",
       "perguntas": [
         {
           "p": "A Carla quer que o Claude leia os pedidos num site da loja dela. Qual caminho?",
@@ -322,65 +322,65 @@
             "Computer use abrindo o Chrome do computador e entrando na conta da loja por ela.",
             "Copiar a senha na conversa para o Claude entrar.",
             "Navegador embutido do app, com ela mesma fazendo o login.",
-            "Nenhum: o Claude não usa sites."
+            "Nenhum: o Claude nÃ£o usa sites."
           ],
           "certa": 2,
-          "explica": "Site é pelo navegador embutido (Cmd + Shift + B no Mac, Ctrl + Shift + B no Windows), e o login é seu. O erro comum é usar o computer use, em que navegadores ficam só para ver.",
+          "explica": "Site Ã© pelo navegador embutido (Cmd + Shift + B no Mac, Ctrl + Shift + B no Windows), e o login Ã© seu. O erro comum Ã© usar o computer use, em que navegadores ficam sÃ³ para ver.",
           "ref": "diagrama"
         },
         {
-          "p": "Qual destas frases é verdade sobre o computer use?",
+          "p": "Qual destas frases Ã© verdade sobre o computer use?",
           "opcoes": [
-            "Vem desligado e está em teste, no Mac e no Windows, nos planos Pro, Max e Ultra.",
-            "Vem ligado em todos os planos, inclusive Team e Enterprise, e no Linux também.",
-            "Só funciona no Linux, pelo terminal, e precisa de uma chave especial de API.",
+            "Vem desligado e estÃ¡ em teste, no Mac e no Windows, nos planos Pro, Max e Ultra.",
+            "Vem ligado em todos os planos, inclusive Team e Enterprise, e no Linux tambÃ©m.",
+            "SÃ³ funciona no Linux, pelo terminal, e precisa de uma chave especial de API.",
             "Funciona no celular, sem o computador ligado, pelo app do Claude."
           ],
           "certa": 0,
-          "explica": "É uma prévia, desligada por padrão, para Mac e Windows, nos planos Pro, Max e Ultra. Não vale para Team e Enterprise, e no Linux não há app.",
+          "explica": "Ã‰ uma prÃ©via, desligada por padrÃ£o, para Mac e Windows, nos planos Pro, Max e Ultra. NÃ£o vale para Team e Enterprise, e no Linux nÃ£o hÃ¡ app.",
           "ref": "passos"
         },
         {
-          "p": "Como você confere que uma tarefa só de leitura não mudou nada no site?",
+          "p": "Como vocÃª confere que uma tarefa sÃ³ de leitura nÃ£o mudou nada no site?",
           "opcoes": [
             "Pergunta ao Claude, no fim da tarefa, se ele mudou alguma coisa no site e confia no que ele responder.",
             "Fecha o app logo depois da tarefa.",
             "Pede a tarefa duas vezes e compara as respostas.",
-            "Anota antes um sinal (número de posts, data da última edição) e olha de novo depois."
+            "Anota antes um sinal (nÃºmero de posts, data da Ãºltima ediÃ§Ã£o) e olha de novo depois."
           ],
           "certa": 3,
-          "explica": "Um sinal anotado antes e depois é conferência sua, não promessa do Claude. Perguntar a ele é o erro comum: a resposta não prova nada.",
+          "explica": "Um sinal anotado antes e depois Ã© conferÃªncia sua, nÃ£o promessa do Claude. Perguntar a ele Ã© o erro comum: a resposta nÃ£o prova nada.",
           "ref": "codigo"
         },
         {
-          "p": "No meio da tarefa, o Claude acha um post de spam e pergunta se pode apagar. O que fazer numa tarefa só de leitura?",
+          "p": "No meio da tarefa, o Claude acha um post de spam e pergunta se pode apagar. O que fazer numa tarefa sÃ³ de leitura?",
           "opcoes": [
-            "Deixar apagar, porque spam ninguém quer na comunidade.",
-            "Não apagar e pedir o link do post na lista, para você decidir depois.",
+            "Deixar apagar, porque spam ninguÃ©m quer na comunidade.",
+            "NÃ£o apagar e pedir o link do post na lista, para vocÃª decidir depois.",
             "Pedir que ele responda o post com um aviso educado ao autor, sem apagar nada da comunidade.",
             "Mudar a tarefa para \"resolva o que precisar\" e sair."
           ],
           "certa": 1,
-          "explica": "Apagar não tem volta e responder também muda o site. O Claude registra; quem decide é você, olhando o post.",
+          "explica": "Apagar nÃ£o tem volta e responder tambÃ©m muda o site. O Claude registra; quem decide Ã© vocÃª, olhando o post.",
           "ref": "simconversa"
         },
         {
-          "p": "O computer use pede acesso a vários apps. O que você libera?",
+          "p": "O computer use pede acesso a vÃ¡rios apps. O que vocÃª libera?",
           "opcoes": [
-            "Todos, para ele não parar no meio.",
-            "Nenhum: computer use não pede permissão.",
-            "Só o app daquele trabalho.",
-            "Só o navegador, porque é o mais usado."
+            "Todos, para ele nÃ£o parar no meio.",
+            "Nenhum: computer use nÃ£o pede permissÃ£o.",
+            "SÃ³ o app daquele trabalho.",
+            "SÃ³ o navegador, porque Ã© o mais usado."
           ],
           "certa": 2,
-          "explica": "Libere só o que a tarefa precisa. O erro comum é liberar tudo para \"não atrapalhar\"; e o navegador, ali, é só para ver.",
+          "explica": "Libere sÃ³ o que a tarefa precisa. O erro comum Ã© liberar tudo para \"nÃ£o atrapalhar\"; e o navegador, ali, Ã© sÃ³ para ver.",
           "ref": "diagrama"
         }
       ]
     },
     {
       "tipo": "resumo",
-      "titulo": "A aula em três frases",
+      "titulo": "A aula em trÃªs frases",
       "itens": [
         {
           "t": "Dois caminhos",
@@ -388,31 +388,31 @@
         },
         {
           "t": "Regras no pedido",
-          "texto": "Só leitura, pergunte antes e libere só o necessário. O login é sempre seu."
+          "texto": "SÃ³ leitura, pergunte antes e libere sÃ³ o necessÃ¡rio. O login Ã© sempre seu."
         },
         {
           "t": "Antes e depois",
-          "texto": "Anote um sinal antes da tarefa e confira depois que ele não mudou."
+          "texto": "Anote um sinal antes da tarefa e confira depois que ele nÃ£o mudou."
         }
       ]
     },
     {
       "tipo": "links",
-      "titulo": "Para ir além",
+      "titulo": "Para ir alÃ©m",
       "links": [
         {
-          "t": "Computer use no Claude Code (documentação oficial, em inglês)",
+          "t": "Computer use no Claude Code (documentaÃ§Ã£o oficial, em inglÃªs)",
           "href": "https://code.claude.com/docs/en/computer-use",
           "icone": "chip"
         },
         {
-          "t": "Claude Code no app de computador (documentação oficial, em inglês)",
+          "t": "Claude Code no app de computador (documentaÃ§Ã£o oficial, em inglÃªs)",
           "href": "https://code.claude.com/docs/en/desktop",
           "icone": "lista"
         },
         {
           "t": "Guia das 13 novidades do Claude Code",
-          "href": "https://inematds.github.io/claude-code-2/guia/",
+          "href": "https://linnoff88-dev.github.io/
           "icone": "arquivo"
         }
       ]

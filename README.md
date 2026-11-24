@@ -1,4 +1,4 @@
-﻿# Claude Code 2.0 na prÃ¡tica â€” curso INEMA v7.2
+# Claude Code 2.0 na prÃ¡tica â€” curso ARCKHÉ v7.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,11 +6,11 @@
 </div>
 
 
-**ðŸ‡§ðŸ‡· [Curso em portuguÃªs](https://inematds.github.io/claude-code-2-na-pratica-v72/) Â· ðŸ‡ºðŸ‡¸ [English](https://inematds.github.io/claude-code-2-na-pratica-v72/en/) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](https://inematds.github.io/claude-code-2-na-pratica-v72/es/)**
+**ðŸ‡§ðŸ‡· [Curso em portuguÃªs](https://linnoff88-dev.github.io/ Â· ðŸ‡ºðŸ‡¸ [English](https://linnoff88-dev.github.io/ Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 As novidades do Claude Code para quem nÃ£o programa, em sete aulas curtas, abertas e gratuitas. Cada novidade Ã© testada num trabalho real (o curso de planilhas da Carla), com prompt pronto, prÃ¡tica com "pronto quando" e teste comentado. O curso diz o que Ã© prÃ©via, beta ou sÃ³ nos EUA. "Claude Code 2.0" Ã© o apelido das versÃµes 2.1.x.
 
-**Guia de consulta das 13 novidades (com os prompts):** https://inematds.github.io/claude-code-2/guia/
+**Guia de consulta das 13 novidades (com os prompts):** https://linnoff88-dev.github.io/
 
 | # | Aula | PÃ¡gina |
 |---|---|---|
@@ -33,16 +33,16 @@ Legenda: ðŸ§  sessÃ£o com o Nei Â· âš™ï¸ script/timer Â· ðŸ�
 5. âš™ï¸ PortÃ£o: `python3 gerar.py && python3 validar.py --links && node ~/.claude/skills/formato-curso-v72/scripts/conferir-tela.cjs .`
 6. ðŸ¤– Revisor independente (agente novo, persona do pÃºblico) â†’ corrigir â†’ revisar de novo; notas em `~/projetos/wifi/scripts/revisor-nota.py`.
 7. âš™ï¸ EN/ES: `python3 ~/.claude/skills/formato-curso-v72/scripts/traduzir.py . en es` (tradutor central) â†’ `gerar.py --lang en|es` â†’ `validar.py --lang en|es` â†’ conferir rÃ³tulos dos conferidores.
-8. âš™ï¸ Publicar: commit (autor inematds) + `gh repo create inematds/claude-code-2-na-pratica-v72 --public --source . --push` + GitHub Pages da raiz.
-9. ðŸ§  VÃ­deos (explicavideo 16:9 + 9:16 e rtex 9:16) â†’ lives4, INEMA.CCODE, metritds; portal inema.club (skill `atualiza-portal`).
+8. âš™ï¸ Publicar: commit (autor linnoff88-dev) + `gh repo create linnoff88-dev/claude-code-2-na-pratica-v72 --public --source . --push` + GitHub Pages da raiz.
+9. ðŸ§  VÃ­deos (explicavideo 16:9 + 9:16 e rtex 9:16) â†’ lives4, ARCKHÉ.CCODE, metritds; portal ARCKHÉ AI (skill `atualiza-portal`).
 
-ConteÃºdo aberto e gratuito Â· [INEMA.CLUB](https://inema.club)
+ConteÃºdo aberto e gratuito Â· [ARCKHÉ AI](https://ARCKHÉ AI)
 
-## Mais no INEMA.CLUB
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/389-claude-code-2-0-na-pratica-as-novidades-do-claude-code-para-quem-nao-programa/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/389-claude-code-2-0-na-pratica-as-novidades-do-claude-code-para-quem-nao-programa/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
 
 ---
 
