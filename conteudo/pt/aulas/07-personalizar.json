@@ -5,7 +5,7 @@
   "titulo": "Personalizar: comandos de barra, mods e a sua rotina",
   "titulo_curto": "Personalizar",
   "minutos": 16,
-  "lead": "Cinco comandos curtos mudam o jeito como o Claude trabalha: voltar atrÃ¡s, ver o que ocupa a conversa, resumir, perseguir uma meta e responder mais curto. Os mods mudam a cara do Claude Code, mas pedem conferÃªncia antes. No fim, a Carla escolhe trÃªs novidades do curso e escreve a rotina da semana dela. VocÃª faz a sua.",
+  "lead": "Cinco comandos curtos mudam o jeito como o Claude trabalha: voltar atrêÂ¡s, ver o que ocupa a conversa, resumir, perseguir uma meta e responder mais curto. Os mods mudam a cara do Claude Code, mas pedem conferêÂªncia antes. No fim, a Carla escolhe trêÂªs novidades do curso e escreve a rotina da semana dela. VocêÂª faz a sua.",
   "objetivo": "Ajustar o Claude com comandos de barra e mods e montar a sua rotina com as novidades.",
   "competencias": [
     "usar-comandos-de-barra",
@@ -30,12 +30,12 @@
       "t": "Escrever a sua rotina com 3 novidades"
     }
   ],
-  "hero_alt": "Bancada organizada com uma caixa de ferramentas aberta ao lado de um notebook; na tela, uma lista curta de comandos e um calendÃ¡rio da semana.",
+  "hero_alt": "Bancada organizada com uma caixa de ferramentas aberta ao lado de um notebook; na tela, uma lista curta de comandos e um calendêÂ¡rio da semana.",
   "secoes": [
     {
       "tipo": "diagrama",
       "titulo": "A sua caixa de ferramentas",
-      "sub": "Toque ou clique em cada parte. A rotina Ã© o que transforma ferramenta em hÃ¡bito.",
+      "sub": "Toque ou clique em cada parte. A rotina êÂ© o que transforma ferramenta em hêÂ¡bito.",
       "nos": [
         {
           "icone": "terminal",
@@ -43,16 +43,16 @@
           "sub": "de barra",
           "itens": [
             {
-              "t": "/rewind Â· /context"
+              "t": "/rewind êÂ· /context"
             },
             {
-              "t": "/recap Â· /goal"
+              "t": "/recap êÂ· /goal"
             },
             {
               "t": "/output-style"
             }
           ],
-          "detalhe": "Comando de barra Ã© um atalho que comeÃ§a com / e muda como o Claude trabalha naquela sessÃ£o. VocÃª digita / na caixa de mensagem e escolhe da lista. NÃ£o precisa programar."
+          "detalhe": "Comando de barra êÂ© um atalho que comeêÂ§a com / e muda como o Claude trabalha naquela sessêÂ£o. VocêÂª digita / na caixa de mensagem e escolhe da lista. NêÂ£o precisa programar."
         },
         {
           "icone": "camadas",
@@ -66,7 +66,7 @@
               "t": "barras e comandos"
             }
           ],
-          "detalhe": "Mod Ã© um tipo de plugin (complemento): por isso o menu dele se chama /plugin. Ele muda como o Claude Code aparece e se comporta: uma barra mostrando quanto da conversa jÃ¡ foi usado, um aviso quando algo termina, um comando novo. Aparece na aba Code do app (e tambÃ©m no terminal e no VS Code, um programa de escrever cÃ³digo)."
+          "detalhe": "Mod êÂ© um tipo de plugin (complemento): por isso o menu dele se chama /plugin. Ele muda como o Claude Code aparece e se comporta: uma barra mostrando quanto da conversa jêÂ¡ foi usado, um aviso quando algo termina, um comando novo. Aparece na aba Code do app (e tambêÂ©m no terminal e no VS Code, um programa de escrever cêÂ³digo)."
         },
         {
           "icone": "escudo",
@@ -80,66 +80,66 @@
               "t": "/plugin"
             }
           ],
-          "detalhe": "Mod nÃ£o roda isolado: tem acesso ao que o Claude Code acessa, inclusive os seus arquivos. Por isso, antes de instalar, peÃ§a ao Claude para conferir o que o mod faz. Se algo der errado depois, peÃ§a a ele para desligar o mod ou use o menu /plugin. Esta parte Ã© opcional e mais tÃ©cnica."
+          "detalhe": "Mod nêÂ£o roda isolado: tem acesso ao que o Claude Code acessa, inclusive os seus arquivos. Por isso, antes de instalar, peêÂ§a ao Claude para conferir o que o mod faz. Se algo der errado depois, peêÂ§a a ele para desligar o mod ou use o menu /plugin. Esta parte êÂ© opcional e mais têÂ©cnica."
         },
         {
           "icone": "calendario",
           "titulo": "Sua rotina",
           "sub": "da semana",
           "forte": true,
-          "detalhe": "Treze novidades ninguÃ©m usa de uma vez. Escolha trÃªs, diga em que dia ou momento usa cada uma e para quÃª. Daqui a uma semana, troque a que nÃ£o pegou."
+          "detalhe": "Treze novidades ninguêÂ©m usa de uma vez. Escolha trêÂªs, diga em que dia ou momento usa cada uma e para quêÂª. Daqui a uma semana, troque a que nêÂ£o pegou."
         }
       ],
-      "legenda": "Comandos ajustam a sessÃ£o; mods ajustam o Claude Code; a rotina decide o que vocÃª usa de verdade.",
+      "legenda": "Comandos ajustam a sessêÂ£o; mods ajustam o Claude Code; a rotina decide o que vocêÂª usa de verdade.",
       "rolagem": true,
       "rolagem_fim": {
-        "titulo": "Ferramenta vira hÃ¡bito",
-        "texto": "Comandos para o dia a dia, mods sÃ³ depois de conferidos, e uma rotina curta com trÃªs novidades."
+        "titulo": "Ferramenta vira hêÂ¡bito",
+        "texto": "Comandos para o dia a dia, mods sêÂ³ depois de conferidos, e uma rotina curta com trêÂªs novidades."
       }
     },
     {
       "tipo": "passos",
       "titulo": "Os 5 comandos, com o caso da Carla",
-      "sub": "Digite / na caixa de mensagem (aba Code do app) e escolha da lista. Se um comando nÃ£o aparecer, atualize o app e olhe de novo; se ainda nÃ£o aparecer, pergunte ao Claude: \"como uso o /recap neste app?\". No terminal (opcional), funcionam igual.",
+      "sub": "Digite / na caixa de mensagem (aba Code do app) e escolha da lista. Se um comando nêÂ£o aparecer, atualize o app e olhe de novo; se ainda nêÂ£o aparecer, pergunte ao Claude: \"como uso o /recap neste app?\". No terminal (opcional), funcionam igual.",
       "passos": [
         {
           "titulo": "/rewind",
-          "sub": "voltar atrÃ¡s",
+          "sub": "voltar atrêÂ¡s",
           "texto": [
-            "Volta a conversa para antes de uma resposta ruim, como se ela nÃ£o tivesse acontecido. O atalho Ã© apertar Esc duas vezes.",
-            "Melhor do que discutir com o Claude: vocÃª volta e pede de outro jeito. Ele volta a conversa; se a resposta ruim jÃ¡ mexeu num arquivo, peÃ§a ao Claude para conferir o arquivo."
+            "Volta a conversa para antes de uma resposta ruim, como se ela nêÂ£o tivesse acontecido. O atalho êÂ© apertar Esc duas vezes.",
+            "Melhor do que discutir com o Claude: vocêÂª volta e pede de outro jeito. Ele volta a conversa; se a resposta ruim jêÂ¡ mexeu num arquivo, peêÂ§a ao Claude para conferir o arquivo."
           ],
           "exemplo": {
             "rot": "Carla",
-            "texto": "Pediu sÃ³ o tÃ­tulo da aula 1 e o Claude respondeu com a aula inteira. /rewind e pedido novo, mais claro."
+            "texto": "Pediu sêÂ³ o têÂ­tulo da aula 1 e o Claude respondeu com a aula inteira. /rewind e pedido novo, mais claro."
           }
         },
         {
           "titulo": "/context",
           "sub": "o que ocupa",
           "texto": [
-            "Contexto Ã© tudo o que o Claude estÃ¡ levando em conta nesta conversa: histÃ³rico, arquivos lidos, instruÃ§Ãµes. O /context mostra uma grade colorida de quanto cada parte ocupa.",
+            "Contexto êÂ© tudo o que o Claude estêÂ¡ levando em conta nesta conversa: histêÂ³rico, arquivos lidos, instruêÂ§êÂµes. O /context mostra uma grade colorida de quanto cada parte ocupa.",
             "Conversa cheia fica mais lenta e gasta mais do seu limite."
           ],
           "exemplo": {
             "rot": "Carla",
-            "texto": "Viu que trÃªs roteiros antigos ocupavam boa parte e abriu uma sessÃ£o nova para a aula 2."
+            "texto": "Viu que trêÂªs roteiros antigos ocupavam boa parte e abriu uma sessêÂ£o nova para a aula 2."
           }
         },
         {
           "titulo": "/recap",
           "sub": "onde parei",
           "texto": [
-            "DÃ¡ um resumo de uma linha da sessÃ£o, na hora. Serve para quando vocÃª volta do almoÃ§o e nÃ£o lembra onde parou.",
-            "Depois de algumas trocas de mensagem, o Claude tambÃ©m faz esse resumo sozinho."
+            "DêÂ¡ um resumo de uma linha da sessêÂ£o, na hora. Serve para quando vocêÂª volta do almoêÂ§o e nêÂ£o lembra onde parou.",
+            "Depois de algumas trocas de mensagem, o Claude tambêÂ©m faz esse resumo sozinho."
           ]
         },
         {
           "titulo": "/goal",
-          "sub": "atÃ© a meta",
+          "sub": "atêÂ© a meta",
           "texto": [
-            "VocÃª dÃ¡ uma meta clara e o Claude segue trabalhando atÃ© chegar nela. Meta clara tem como medir: \"5 exercÃ­cios, cada um com resposta\", nÃ£o \"exercÃ­cios bons\".",
-            "Sem medida, ele nÃ£o sabe quando parar."
+            "VocêÂª dêÂ¡ uma meta clara e o Claude segue trabalhando atêÂ© chegar nela. Meta clara tem como medir: \"5 exercêÂ­cios, cada um com resposta\", nêÂ£o \"exercêÂ­cios bons\".",
+            "Sem medida, ele nêÂ£o sabe quando parar."
           ]
         },
         {
@@ -147,15 +147,15 @@
           "sub": "mais curto",
           "texto": [
             "Muda o jeito das respostas. Escolha concise para respostas mais curtas e diretas.",
-            "Bom para o dia a dia; volte para o estilo padrÃ£o quando quiser explicaÃ§Ã£o longa."
+            "Bom para o dia a dia; volte para o estilo padrêÂ£o quando quiser explicaêÂ§êÂ£o longa."
           ]
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Os comandos da Carla numa manhÃ£ de trabalho",
-      "sub": "Um por vez, na sessÃ£o da pasta do curso.",
+      "titulo": "Os comandos da Carla numa manhêÂ£ de trabalho",
+      "sub": "Um por vez, na sessêÂ£o da pasta do curso.",
       "blocos": [
         {
           "rot": "Respostas curtas e um resumo",
@@ -165,7 +165,7 @@
         {
           "rot": "Uma meta com medida",
           "icone": "alvo",
-          "conteudo": "/goal Criar curso-planilhas/aula-2/exercicios.md com 5 exercÃ­cios de PROCV, cada um com a planilha de exemplo e a resposta certa."
+          "conteudo": "/goal Criar curso-planilhas/aula-2/exercicios.md com 5 exercêÂ­cios de PROCV, cada um com a planilha de exemplo e a resposta certa."
         },
         {
           "rot": "Ver o que ocupa a conversa",
@@ -178,58 +178,58 @@
         "abas": [
           {
             "rot": "Depois do /recap",
-            "html": "<p><i>Roteiro da aula 2 (PROCV) escrito e aprovado; faltam os exercÃ­cios.</i></p>"
+            "html": "<p><i>Roteiro da aula 2 (PROCV) escrito e aprovado; faltam os exercêÂ­cios.</i></p>"
           },
           {
             "rot": "Depois do /goal",
-            "html": "<ul><li>Criei curso-planilhas/aula-2/exercicios.md.</li><li>5 exercÃ­cios, cada um com planilha de exemplo e resposta.</li><li>Conferi as 5 respostas com a fÃ³rmula aplicada nas planilhas de exemplo.</li></ul><p>Meta atingida.</p>"
+            "html": "<ul><li>Criei curso-planilhas/aula-2/exercicios.md.</li><li>5 exercêÂ­cios, cada um com planilha de exemplo e resposta.</li><li>Conferi as 5 respostas com a fêÂ³rmula aplicada nas planilhas de exemplo.</li></ul><p>Meta atingida.</p>"
           },
           {
             "rot": "Erros comuns",
-            "html": "<ul><li><b>/goal sem medida</b> (\"faÃ§a bons exercÃ­cios\"): o Claude nÃ£o sabe quando terminou.</li><li><b>Discutir em vez de voltar</b>: depois de uma resposta ruim, /rewind e peÃ§a de outro jeito.</li></ul>"
+            "html": "<ul><li><b>/goal sem medida</b> (\"faêÂ§a bons exercêÂ­cios\"): o Claude nêÂ£o sabe quando terminou.</li><li><b>Discutir em vez de voltar</b>: depois de uma resposta ruim, /rewind e peêÂ§a de outro jeito.</li></ul>"
           }
         ]
       }
     },
     {
       "tipo": "passos",
-      "titulo": "Mods: conferir antes de instalar (opcional, mais tÃ©cnico)",
-      "sub": "Pode pular se vocÃª sÃ³ quer usar o app como estÃ¡. Exemplos prontos: 18 mods em portuguÃªs, testados, no repositÃ³rio linnoff88-dev/ARCKHÉ-mods no GitHub. GitHub Ã© um site onde as pessoas guardam e compartilham cÃ³digo; repositÃ³rio Ã© a pasta de um projeto lÃ¡ dentro.",
+      "titulo": "Mods: conferir antes de instalar (opcional, mais têÂ©cnico)",
+      "sub": "Pode pular se vocêÂª sêÂ³ quer usar o app como estêÂ¡. Exemplos prontos: 18 mods em portuguêÂªs, testados, no repositêÂ³rio linnoff88-dev/ARCKHê-mods no GitHub. GitHub êÂ© um site onde as pessoas guardam e compartilham cêÂ³digo; repositêÂ³rio êÂ© a pasta de um projeto lêÂ¡ dentro.",
       "passos": [
         {
           "titulo": "Atualize",
           "sub": "2.1.287 ou mais",
           "texto": [
-            "Mods precisam do Claude Code na versÃ£o 2.1.287 ou mais nova. No app, basta mantÃª-lo atualizado; no terminal (opcional), <code>claude --version</code> mostra o nÃºmero.",
-            "VersÃ£o velha: o mod nÃ£o aparece, e nÃ£o Ã© defeito dele."
+            "Mods precisam do Claude Code na versêÂ£o 2.1.287 ou mais nova. No app, basta mantêÂª-lo atualizado; no terminal (opcional), <code>claude --version</code> mostra o nêÂºmero.",
+            "VersêÂ£o velha: o mod nêÂ£o aparece, e nêÂ£o êÂ© defeito dele."
           ]
         },
         {
-          "titulo": "PeÃ§a a conferÃªncia",
+          "titulo": "PeêÂ§a a conferêÂªncia",
           "sub": "antes de tudo",
           "texto": [
-            "Mod nÃ£o tem isolamento: pode ler seus arquivos e rodar comandos como o Claude Code. EntÃ£o quem confere primeiro Ã© o Claude: ele roda um comando de checagem (<code>claude plugin validate</code>) na pasta do mod.",
-            "Essa checagem mostra em que momentos o mod age sozinho (os hooks) e o que ele pede para usar. VocÃª nÃ£o precisa entender o comando: o prompt abaixo pede o resumo em palavras simples."
+            "Mod nêÂ£o tem isolamento: pode ler seus arquivos e rodar comandos como o Claude Code. EntêÂ£o quem confere primeiro êÂ© o Claude: ele roda um comando de checagem (<code>claude plugin validate</code>) na pasta do mod.",
+            "Essa checagem mostra em que momentos o mod age sozinho (os hooks) e o que ele pede para usar. VocêÂª nêÂ£o precisa entender o comando: o prompt abaixo pede o resumo em palavras simples."
           ],
           "exemplo": {
             "rot": "Sem terminal",
-            "texto": "Na aba Code do app, cole o prompt abaixo: o prÃ³prio Claude roda a conferÃªncia."
+            "texto": "Na aba Code do app, cole o prompt abaixo: o prêÂ³prio Claude roda a conferêÂªncia."
           }
         },
         {
           "titulo": "Instale ou recuse",
-          "sub": "vocÃª decide",
+          "sub": "vocêÂª decide",
           "texto": [
-            "Leia o resumo em palavras simples: o que ele lÃª, o que roda, se usa a internet. Ficou na dÃºvida? NÃ£o instale.",
-            "Para instalar ou desligar mods, digite /plugin na caixa de mensagem e use o menu que abre. A mudanÃ§a vale quando vocÃª fecha o menu."
+            "Leia o resumo em palavras simples: o que ele lêÂª, o que roda, se usa a internet. Ficou na dêÂºvida? NêÂ£o instale.",
+            "Para instalar ou desligar mods, digite /plugin na caixa de mensagem e use o menu que abre. A mudanêÂ§a vale quando vocêÂª fecha o menu."
           ]
         },
         {
-          "titulo": "SaÃ­da de emergÃªncia",
+          "titulo": "SaêÂ­da de emergêÂªncia",
           "sub": "desligar o mod",
           "texto": [
-            "Se depois de um mod o Claude ficar estranho, peÃ§a na prÃ³pria sessÃ£o: \"desligue o mod [nome]\" ou \"desinstale o mod [nome]\". Ou digite /plugin na caixa de mensagem e desative o mod no menu; vale ao fechar o menu.",
-            "SÃ³ para quem usa o terminal (opcional): <code>claude --safe-mode</code> abre o Claude Code sem nenhuma customizaÃ§Ã£o, se ele nem abrir direito."
+            "Se depois de um mod o Claude ficar estranho, peêÂ§a na prêÂ³pria sessêÂ£o: \"desligue o mod [nome]\" ou \"desinstale o mod [nome]\". Ou digite /plugin na caixa de mensagem e desative o mod no menu; vale ao fechar o menu.",
+            "SêÂ³ para quem usa o terminal (opcional): <code>claude --safe-mode</code> abre o Claude Code sem nenhuma customizaêÂ§êÂ£o, se ele nem abrir direito."
           ]
         }
       ]
@@ -237,20 +237,20 @@
     {
       "tipo": "codigo",
       "titulo": "Prompt da Carla: conferir um mod (opcional)",
-      "sub": "Cole numa sessÃ£o da aba Code ou do terminal. Troque o link pelo do mod que vocÃª quer.",
+      "sub": "Cole numa sessêÂ£o da aba Code ou do terminal. Troque o link pelo do mod que vocêÂª quer.",
       "blocos": [
         {
-          "rot": "ConferÃªncia antes de instalar",
+          "rot": "ConferêÂªncia antes de instalar",
           "icone": "escudo",
-          "conteudo": "Quero conferir um mod antes de instalar: <link do mod no GitHub>\nExemplos de mods: https://github.com/linnoff88-dev/ARCKHÉ-mods\nBaixe numa pasta separada e rode claude plugin validate nela.\nMe explique em atÃ© 5 linhas, sem termos tÃ©cnicos:\n- em que momentos ele age (hooks)\n- se lÃª meus arquivos, roda comandos ou usa a internet\n- como desligar depois\nNÃ£o instale nada atÃ© eu responder SIM."
+          "conteudo": "Quero conferir um mod antes de instalar: <link do mod no GitHub>\nExemplos de mods: https://github.com/linnoff88-dev/ARCKHê-mods\nBaixe numa pasta separada e rode claude plugin validate nela.\nMe explique em atêÂ© 5 linhas, sem termos têÂ©cnicos:\n- em que momentos ele age (hooks)\n- se lêÂª meus arquivos, roda comandos ou usa a internet\n- como desligar depois\nNêÂ£o instale nada atêÂ© eu responder SIM."
         },
         {
-          "rot": "Se algo der errado Â· peÃ§a ao Claude",
+          "rot": "Se algo der errado êÂ· peêÂ§a ao Claude",
           "icone": "escudo",
           "conteudo": "Desligue o mod <nome do mod> e me diga como ficou a lista de mods ligados."
         },
         {
-          "rot": "Terminal (opcional) Â· se o Claude Code nem abrir direito",
+          "rot": "Terminal (opcional) êÂ· se o Claude Code nem abrir direito",
           "icone": "terminal",
           "conteudo": "claude --safe-mode"
         }
@@ -260,11 +260,11 @@
         "abas": [
           {
             "rot": "Resposta do Claude",
-            "html": "<p><b>O que este mod faz:</b> mostra uma barra no rodapÃ© com quanto da conversa jÃ¡ foi usado.</p><ul><li><b>Quando age:</b> a cada resposta, para atualizar a barra.</li><li><b>Arquivos:</b> nÃ£o lÃª seus arquivos de trabalho.</li><li><b>Comandos e internet:</b> nÃ£o roda comandos externos nem usa a internet.</li><li><b>Desligar:</b> /plugin â†’ desativar.</li></ul><p>A validaÃ§Ã£o passou sem erros. <b>Instalo?</b> Responda SIM.</p>"
+            "html": "<p><b>O que este mod faz:</b> mostra uma barra no rodapêÂ© com quanto da conversa jêÂ¡ foi usado.</p><ul><li><b>Quando age:</b> a cada resposta, para atualizar a barra.</li><li><b>Arquivos:</b> nêÂ£o lêÂª seus arquivos de trabalho.</li><li><b>Comandos e internet:</b> nêÂ£o roda comandos externos nem usa a internet.</li><li><b>Desligar:</b> /plugin ê¢â â desativar.</li></ul><p>A validaêÂ§êÂ£o passou sem erros. <b>Instalo?</b> Responda SIM.</p>"
           },
           {
             "rot": "Sinais de alerta",
-            "html": "<ul><li>O mod pede para usar a internet sem motivo claro.</li><li>LÃª pastas fora do projeto.</li><li>O Claude nÃ£o consegue explicar o que um trecho faz.</li></ul><p>Qualquer um desses: nÃ£o instale.</p>"
+            "html": "<ul><li>O mod pede para usar a internet sem motivo claro.</li><li>LêÂª pastas fora do projeto.</li><li>O Claude nêÂ£o consegue explicar o que um trecho faz.</li></ul><p>Qualquer um desses: nêÂ£o instale.</p>"
           }
         ]
       }
@@ -272,10 +272,10 @@
     {
       "tipo": "conferidor",
       "titulo": "Confira a sua rotina",
-      "sub": "Escreva 3 linhas numeradas: novidade | quando usa | para quÃª. A pÃ¡gina confere se cada linha cita uma novidade do curso e um dia ou momento, e se sÃ£o 3 novidades diferentes. Ã‰ checagem de forma: se a rotina serve, quem decide Ã© vocÃª.",
+      "sub": "Escreva 3 linhas numeradas: novidade | quando usa | para quêÂª. A pêÂ¡gina confere se cada linha cita uma novidade do curso e um dia ou momento, e se sêÂ£o 3 novidades diferentes. êâ° checagem de forma: se a rotina serve, quem decide êÂ© vocêÂª.",
       "arquivo": "rotina.md",
       "rot": "Cole aqui a sua rotina (3 linhas numeradas):",
-      "modelo": "1 | [novidade] | [quando] | [para quÃª]\n2 | ...\n3 | ...",
+      "modelo": "1 | [novidade] | [quando] | [para quêÂª]\n2 | ...\n3 | ...",
       "regras": [
         {
           "tipo": "planos",
@@ -289,7 +289,7 @@
               "rot": "novidade do curso",
               "variar": 3,
               "termos": [
-                "seÃ§Ãµes / secoes / seÃ§Ã£o / sections / secciones",
+                "seêÂ§êÂµes / secoes / seêÂ§êÂ£o / sections / secciones",
                 "side chat / /btw / btw",
                 "split view / tela dividida / split screen / pantalla dividida",
                 "subagente / subagentes / ajudante / ajudantes / subagent / subagents / helper / helpers / ayudante / ayudantes",
@@ -299,7 +299,7 @@
                 "remote control / /remote-control / /rc / control remoto",
                 "slides / claude slides",
                 "claude design",
-                "dashboard / dashboards / painel / painÃ©is / panel / paneles",
+                "dashboard / dashboards / painel / painêÂ©is / panel / paneles",
                 "claude docs / docs / documento compartilhado / shared doc / documento compartido",
                 "/rewind / rewind",
                 "/context",
@@ -314,124 +314,124 @@
               "rot": "dia ou momento",
               "termos": [
                 "segunda / segunda-feira / segundas / monday / mondays / lunes",
-                "terÃ§a / terÃ§a-feira / terÃ§as / tuesday / tuesdays / martes",
-                "quarta / quarta-feira / quartas / wednesday / wednesdays / miÃ©rcoles",
+                "terêÂ§a / terêÂ§a-feira / terêÂ§as / tuesday / tuesdays / martes",
+                "quarta / quarta-feira / quartas / wednesday / wednesdays / miêÂ©rcoles",
                 "quinta / quinta-feira / quintas / thursday / thursdays / jueves",
                 "sexta / sexta-feira / sextas / friday / fridays / viernes",
-                "sÃ¡bado / sÃ¡bados / saturday / saturdays",
+                "sêÂ¡bado / sêÂ¡bados / saturday / saturdays",
                 "domingo / domingos / sunday / sundays",
-                "todo dia / todos os dias / toda manhÃ£ / toda tarde / toda noite / every day / every morning / daily / cada dÃ­a / todos los dÃ­as / cada maÃ±ana",
+                "todo dia / todos os dias / toda manhêÂ£ / toda tarde / toda noite / every day / every morning / daily / cada dêÂ­a / todos los dêÂ­as / cada maêÂ±ana",
                 "toda semana / todas as semanas / every week / weekly / cada semana / todas las semanas",
                 "fim de semana / weekend / fin de semana",
                 "sempre que / toda vez que / every time / whenever / siempre que / cada vez que",
-                "de manhÃ£ / Ã  tarde / Ã  noite / no almoÃ§o / in the morning / in the afternoon / at night / por la maÃ±ana / por la tarde / por la noche"
+                "de manhêÂ£ / êÂ  tarde / êÂ  noite / no almoêÂ§o / in the morning / in the afternoon / at night / por la maêÂ±ana / por la tarde / por la noche"
               ]
             }
           ]
         }
       ],
       "ok": "OK: rotina com {n} novidades, cada uma com dia ou momento",
-      "exemplo": "1 | side chat | segunda | dÃºvidas\n2 | /recap | todo dia | onde parei\n3 | /rc | sexta | aprovar no celular",
-      "exemplo_errado": "1 | as novidades | quando der | ver\n2 | side chat | todo dia | dÃºvidas\n3 | side chat | segunda | dÃºvidas"
+      "exemplo": "1 | side chat | segunda | dêÂºvidas\n2 | /recap | todo dia | onde parei\n3 | /rc | sexta | aprovar no celular",
+      "exemplo_errado": "1 | as novidades | quando der | ver\n2 | side chat | todo dia | dêÂºvidas\n3 | side chat | segunda | dêÂºvidas"
     },
     {
       "tipo": "pratica",
-      "titulo": "PrÃ¡tica: a sua caixa de ferramentas",
-      "sub": "Comandos e rotina dÃ£o para fazer no app. A conferÃªncia do mod (E2) Ã© opcional e mais tÃ©cnica.",
+      "titulo": "PrêÂ¡tica: a sua caixa de ferramentas",
+      "sub": "Comandos e rotina dêÂ£o para fazer no app. A conferêÂªncia do mod (E2) êÂ© opcional e mais têÂ©cnica.",
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "E1 Â· Dois comandos",
+          "titulo": "E1 êÂ· Dois comandos",
           "min": "10 min",
-          "texto": "Numa sessÃ£o de um trabalho seu, digite /output-style e escolha concise. Trabalhe um pouco e depois digite /recap.",
-          "pronto": "as respostas ficaram mais curtas e o /recap devolveu um resumo de uma linha do que vocÃª fez."
+          "texto": "Numa sessêÂ£o de um trabalho seu, digite /output-style e escolha concise. Trabalhe um pouco e depois digite /recap.",
+          "pronto": "as respostas ficaram mais curtas e o /recap devolveu um resumo de uma linha do que vocêÂª fez."
         },
         {
           "id": "e2",
-          "titulo": "E2 Â· Um mod conferido (opcional)",
+          "titulo": "E2 êÂ· Um mod conferido (opcional)",
           "min": "15 min",
-          "texto": "Escolha um mod do linnoff88-dev/ARCKHÉ-mods e cole o prompt da Carla com o link dele. Leia o resumo antes de responder.",
-          "pronto": "vocÃª tem, em atÃ© 5 linhas e em palavras simples, o que o mod acessa e como desligar; instalar ou nÃ£o Ã© escolha sua."
+          "texto": "Escolha um mod do linnoff88-dev/ARCKHê-mods e cole o prompt da Carla com o link dele. Leia o resumo antes de responder.",
+          "pronto": "vocêÂª tem, em atêÂ© 5 linhas e em palavras simples, o que o mod acessa e como desligar; instalar ou nêÂ£o êÂ© escolha sua."
         },
         {
           "id": "e3",
-          "titulo": "E3 Â· A sua rotina",
+          "titulo": "E3 êÂ· A sua rotina",
           "min": "10 min",
-          "texto": "Escolha 3 novidades do curso que vocÃª vai usar e escreva uma linha para cada: novidade | quando usa | para quÃª. Cole no conferidor acima e salve como rotina.md: o botÃ£o \"Baixar o arquivo\" do conferidor jÃ¡ salva o arquivo pronto. Ou peÃ§a ao Claude, na aba Code: \"crie rotina.md na pasta do projeto com este texto\" e cole a rotina.",
-          "pronto": "o rotina.md estÃ¡ salvo e o conferidor responde \"OK: rotina com 3 novidades, cada uma com dia ou momento\"."
+          "texto": "Escolha 3 novidades do curso que vocêÂª vai usar e escreva uma linha para cada: novidade | quando usa | para quêÂª. Cole no conferidor acima e salve como rotina.md: o botêÂ£o \"Baixar o arquivo\" do conferidor jêÂ¡ salva o arquivo pronto. Ou peêÂ§a ao Claude, na aba Code: \"crie rotina.md na pasta do projeto com este texto\" e cole a rotina.",
+          "pronto": "o rotina.md estêÂ¡ salvo e o conferidor responde \"OK: rotina com 3 novidades, cada uma com dia ou momento\"."
         }
       ]
     },
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicaÃ§Ã£o aparece depois da sua resposta.",
+      "sub": "A explicaêÂ§êÂ£o aparece depois da sua resposta.",
       "perguntas": [
         {
-          "p": "O Claude deu uma resposta ruim e vocÃª quer pedir de outro jeito, como se ela nÃ£o tivesse acontecido. Qual o caminho mais rÃ¡pido?",
+          "p": "O Claude deu uma resposta ruim e vocêÂª quer pedir de outro jeito, como se ela nêÂ£o tivesse acontecido. Qual o caminho mais rêÂ¡pido?",
           "opcoes": [
-            "Explicar o erro em vÃ¡rias mensagens atÃ© ele entender.",
-            "Fechar o app e comeÃ§ar tudo do zero numa sessÃ£o nova.",
+            "Explicar o erro em vêÂ¡rias mensagens atêÂ© ele entender.",
+            "Fechar o app e comeêÂ§ar tudo do zero numa sessêÂ£o nova.",
             "Usar /recap para ele lembrar o que fez de errado.",
             "/rewind (ou Esc duas vezes) e pedir de outro jeito."
           ],
           "certa": 3,
-          "explica": "/rewind volta a conversa para antes da resposta ruim, e vocÃª pede de novo. Discutir enche a conversa e nem sempre conserta; /recap sÃ³ resume.",
+          "explica": "/rewind volta a conversa para antes da resposta ruim, e vocêÂª pede de novo. Discutir enche a conversa e nem sempre conserta; /recap sêÂ³ resume.",
           "ref": "passos"
         },
         {
           "p": "Por que pedir ao Claude para conferir um mod antes de instalar?",
           "opcoes": [
-            "Porque mod nÃ£o tem isolamento e acessa o que o Claude Code acessa.",
-            "Porque mod instalado sem conferÃªncia apaga a conversa atual e o histÃ³rico.",
-            "Porque mod sÃ³ funciona depois que o Claude aprova o cÃ³digo.",
-            "Porque mods do GitHub sÃ³ funcionam no plano Team."
+            "Porque mod nêÂ£o tem isolamento e acessa o que o Claude Code acessa.",
+            "Porque mod instalado sem conferêÂªncia apaga a conversa atual e o histêÂ³rico.",
+            "Porque mod sêÂ³ funciona depois que o Claude aprova o cêÂ³digo.",
+            "Porque mods do GitHub sêÂ³ funcionam no plano Team."
           ],
           "certa": 0,
           "explica": "Mods rodam sem isolamento: podem ler arquivos e rodar comandos. O claude plugin validate mostra em que eventos ele age e o que ele pede.",
           "ref": "passos"
         },
         {
-          "p": "Qual destes Ã© um bom /goal?",
+          "p": "Qual destes êÂ© um bom /goal?",
           "opcoes": [
-            "/goal faÃ§a exercÃ­cios bons",
+            "/goal faêÂ§a exercêÂ­cios bons",
             "/goal melhore o curso",
-            "/goal 5 exercÃ­cios de PROCV, cada um com a resposta certa",
-            "/goal continue trabalhando no curso atÃ© eu voltar do almoÃ§o"
+            "/goal 5 exercêÂ­cios de PROCV, cada um com a resposta certa",
+            "/goal continue trabalhando no curso atêÂ© eu voltar do almoêÂ§o"
           ],
           "certa": 2,
-          "explica": "Meta clara tem como medir: quantidade e o que cada item precisa ter. \"Bons\" ou \"melhore\" nÃ£o dizem quando parar.",
+          "explica": "Meta clara tem como medir: quantidade e o que cada item precisa ter. \"Bons\" ou \"melhore\" nêÂ£o dizem quando parar.",
           "ref": "codigo"
         },
         {
-          "p": "Instalou um mod e o Claude Code comeÃ§ou a se comportar estranho. O que fazer primeiro?",
+          "p": "Instalou um mod e o Claude Code comeêÂ§ou a se comportar estranho. O que fazer primeiro?",
           "opcoes": [
-            "Reinstalar o Claude Code do zero e apagar as configuraÃ§Ãµes.",
-            "Pedir ao Claude para desligar o mod, ou desativÃ¡-lo no /plugin.",
+            "Reinstalar o Claude Code do zero e apagar as configuraêÂ§êÂµes.",
+            "Pedir ao Claude para desligar o mod, ou desativêÂ¡-lo no /plugin.",
             "Usar /output-style concise para esconder as mensagens.",
             "Esperar o mod se ajustar sozinho depois de alguns dias."
           ],
           "certa": 1,
-          "explica": "Desligar o mod resolve sem perder nada: peÃ§a ao Claude ou use o menu /plugin (vale ao fechar o menu). Quem usa o terminal ainda tem o claude --safe-mode, que abre sem customizaÃ§Ãµes.",
+          "explica": "Desligar o mod resolve sem perder nada: peêÂ§a ao Claude ou use o menu /plugin (vale ao fechar o menu). Quem usa o terminal ainda tem o claude --safe-mode, que abre sem customizaêÂ§êÂµes.",
           "ref": "passos"
         },
         {
-          "p": "Qual destas linhas Ã© uma boa rotina?",
+          "p": "Qual destas linhas êÂ© uma boa rotina?",
           "opcoes": [
-            "1 | side chat | toda segunda, no roteiro | dÃºvidas sem bagunÃ§ar",
+            "1 | side chat | toda segunda, no roteiro | dêÂºvidas sem bagunêÂ§ar",
             "1 | todas as novidades do curso | sempre, o dia inteiro | usar tudo ao mesmo tempo",
             "1 | side chat | quando der | ver",
             "1 | coisas novas | toda segunda | testar"
           ],
           "certa": 0,
-          "explica": "Uma novidade sÃ³, um momento claro e um porquÃª. \"Todas as novidades\" e \"quando der\" nÃ£o viram hÃ¡bito.",
+          "explica": "Uma novidade sêÂ³, um momento claro e um porquêÂª. \"Todas as novidades\" e \"quando der\" nêÂ£o viram hêÂ¡bito.",
           "ref": "conferidor"
         }
       ]
     },
     {
       "tipo": "resumo",
-      "titulo": "A aula em trÃªs frases",
+      "titulo": "A aula em trêÂªs frases",
       "itens": [
         {
           "t": "Comandos",
@@ -439,30 +439,30 @@
         },
         {
           "t": "Mods",
-          "texto": "Mudam a cara do Claude Code, sem isolamento: peÃ§a ao Claude para conferir antes e, se der errado, para desligar (ou use o /plugin). Opcional."
+          "texto": "Mudam a cara do Claude Code, sem isolamento: peêÂ§a ao Claude para conferir antes e, se der errado, para desligar (ou use o /plugin). Opcional."
         },
         {
           "t": "Rotina",
-          "texto": "TrÃªs novidades, cada uma com dia ou momento e um porquÃª, salvas em rotina.md."
+          "texto": "TrêÂªs novidades, cada uma com dia ou momento e um porquêÂª, salvas em rotina.md."
         }
       ]
     },
     {
       "tipo": "links",
-      "titulo": "Para ir alÃ©m",
+      "titulo": "Para ir alêÂ©m",
       "links": [
         {
-          "t": "Comandos e modo interativo na documentaÃ§Ã£o oficial (em inglÃªs)",
+          "t": "Comandos e modo interativo na documentaêÂ§êÂ£o oficial (em inglêÂªs)",
           "href": "https://code.claude.com/docs/en/interactive-mode",
           "icone": "terminal"
         },
         {
-          "t": "18 mods em portuguÃªs: linnoff88-dev/ARCKHÉ-mods",
-          "href": "https://github.com/linnoff88-dev/ARCKHÉ-mods",
+          "t": "18 mods em portuguêÂªs: linnoff88-dev/ARCKHê-mods",
+          "href": "https://github.com/linnoff88-dev/ARCKHê-mods",
           "icone": "camadas"
         },
         {
-          "t": "Status line na documentaÃ§Ã£o oficial (em inglÃªs)",
+          "t": "Status line na documentaêÂ§êÂ£o oficial (em inglêÂªs)",
           "href": "https://code.claude.com/docs/en/statusline",
           "icone": "lista"
         },

@@ -1,12 +1,12 @@
-﻿{
+ï»¿{
  "slug": "mapa",
  "num": 1,
  "menu": "El mapa",
- "titulo": "El mapa de las novedades: quÃ© cambiÃ³ y quÃ© ya tienes",
+ "titulo": "El mapa de las novedades: quêÂ© cambiêÂ³ y quêÂ© ya tienes",
  "titulo_curto": "El mapa de las 13 novedades",
  "minutos": 14,
- "lead": "Mucha gente habla de \"Claude Code 2.0\", pero nadie explica quÃ© cambiÃ³ ni quÃ© ya funciona fuera de EE. UU. En esta clase verÃ¡s las 13 novedades en seis grupos, entenderÃ¡s quÃ© necesita cada una (app, plan, versiÃ³n) y revisarÃ¡s en tu propio Claude quÃ© ya tienes, quÃ© te falta y quÃ© estÃ¡ en lista de espera.",
- "objetivo": "Entender quÃ© cambiÃ³ en Claude Code, quÃ© ya puedes usar en tu paÃ­s y preparar la app para probarlo.",
+ "lead": "Mucha gente habla de \"Claude Code 2.0\", pero nadie explica quêÂ© cambiêÂ³ ni quêÂ© ya funciona fuera de EE. UU. En esta clase verêÂ¡s las 13 novedades en seis grupos, entenderêÂ¡s quêÂ© necesita cada una (app, plan, versiêÂ³n) y revisarêÂ¡s en tu propio Claude quêÂ© ya tienes, quêÂ© te falta y quêÂ© estêÂ¡ en lista de espera.",
+ "objetivo": "Entender quêÂ© cambiêÂ³ en Claude Code, quêÂ© ya puedes usar en tu paêÂ­s y preparar la app para probarlo.",
  "competencias": [
   "mapear-novedades-claude-code",
   "revisar-version-y-plan",
@@ -19,18 +19,18 @@
   },
   {
    "icone": "lupa",
-   "t": "QuÃ© es realmente \"Claude Code 2.0\""
+   "t": "QuêÂ© es realmente \"Claude Code 2.0\""
   },
   {
    "icone": "check",
-   "t": "Revisar tu versiÃ³n y tu plan"
+   "t": "Revisar tu versiêÂ³n y tu plan"
   },
   {
    "icone": "lista",
    "t": "Armar tu lista: lo tengo, no lo tengo, lista de espera"
   }
  ],
- "hero_alt": "Mesa de trabajo con una laptop abierta que muestra un mapa de seis grupos de colores conectados por lÃ­neas, junto a un cuaderno con una lista de tres columnas.",
+ "hero_alt": "Mesa de trabajo con una laptop abierta que muestra un mapa de seis grupos de colores conectados por lêÂ­neas, junto a un cuaderno con una lista de tres columnas.",
  "secoes": [
   {
    "tipo": "diagrama",
@@ -55,7 +55,7 @@
        "t": "Vista dividida (split view)"
       }
      ],
-     "detalhe": "Organizar el trabajo. Las conversaciones aparecen en secciones en la barra lateral, una por proyecto. El chat lateral responde una duda rÃ¡pida sin entrar en la conversaciÃ³n principal. La vista dividida muestra dos conversaciones lado a lado en la misma ventana."
+     "detalhe": "Organizar el trabajo. Las conversaciones aparecen en secciones en la barra lateral, una por proyecto. El chat lateral responde una duda rêÂ¡pida sin entrar en la conversaciêÂ³n principal. La vista dividida muestra dos conversaciones lado a lado en la misma ventana."
     },
     {
      "icone": "robo",
@@ -67,7 +67,7 @@
        "t": "Ayudantes (subagentes)"
       }
      ],
-     "detalhe": "Una conversaciÃ³n divide un trabajo grande entre ayudantes, los subagentes. Cada uno hace una parte y devuelve el resultado; luego, la conversaciÃ³n revisa y une todo. Mucha gente lo llama Â«sesiones anidadasÂ», pero el nombre oficial es subagente."
+     "detalhe": "Una conversaciêÂ³n divide un trabajo grande entre ayudantes, los subagentes. Cada uno hace una parte y devuelve el resultado; luego, la conversaciêÂ³n revisa y une todo. Mucha gente lo llama êÂ«sesiones anidadasêÂ», pero el nombre oficial es subagente."
     },
     {
      "icone": "chip",
@@ -83,7 +83,7 @@
        "t": "Navegador integrado"
       }
      ],
-     "detalhe": "Claude usa por ti programas de la computadora (computer use) y sitios web (navegador integrado en la app). Computer use estÃ¡ en vista previa (una versiÃ³n de prueba que aÃºn puede cambiar), para Mac y Windows, en los planes Pro, Max y Ultra, y viene desactivado. Clase 4."
+     "detalhe": "Claude usa por ti programas de la computadora (computer use) y sitios web (navegador integrado en la app). Computer use estêÂ¡ en vista previa (una versiêÂ³n de prueba que aêÂºn puede cambiar), para Mac y Windows, en los planes Pro, Max y Ultra, y viene desactivado. Clase 4."
     },
     {
      "icone": "nuvem",
@@ -103,7 +103,7 @@
        "t": "Claude Duet (solo EE. UU.)"
       }
      ],
-     "detalhe": "Seguir desde el celular (Remote Control, con la computadora encendida) y enviar trabajo a la nube (Projects, que funciona con la computadora apagada). Projects estÃ¡ en beta (en prueba, disponible de forma gradual) y requiere entrar en una lista de espera. Claude Duet te acerca la siguiente tarea, pero hoy solo estÃ¡ disponible en EE. UU. y tambiÃ©n tiene lista de espera. Clase 5."
+     "detalhe": "Seguir desde el celular (Remote Control, con la computadora encendida) y enviar trabajo a la nube (Projects, que funciona con la computadora apagada). Projects estêÂ¡ en beta (en prueba, disponible de forma gradual) y requiere entrar en una lista de espera. Claude Duet te acerca la siguiente tarea, pero hoy solo estêÂ¡ disponible en EE. UU. y tambiêÂ©n tiene lista de espera. Clase 5."
     },
     {
      "icone": "compartilhar",
@@ -119,7 +119,7 @@
        "t": "Documentos compartidos"
       }
      ],
-     "detalhe": "Convertir el trabajo en algo que otra persona pueda abrir: diapositivas, diseÃ±os, paneles de nÃºmeros, videos animados (Motion) o un documento compartido mediante un enlace. Slides y Design estÃ¡n disponibles en todos los planes; Dashboards estÃ¡ en beta; Motion estÃ¡ en beta y solo estÃ¡ disponible en los planes Team y Enterprise."
+     "detalhe": "Convertir el trabajo en algo que otra persona pueda abrir: diapositivas, diseêÂ±os, paneles de nêÂºmeros, videos animados (Motion) o un documento compartido mediante un enlace. Slides y Design estêÂ¡n disponibles en todos los planes; Dashboards estêÂ¡ en beta; Motion estêÂ¡ en beta y solo estêÂ¡ disponible en los planes Team y Enterprise."
     },
     {
      "icone": "caneta",
@@ -132,71 +132,71 @@
       },
       {
        "icone": "marca",
-       "t": "Mods (versiÃ³n 2.1.287+)"
+       "t": "Mods (versiêÂ³n 2.1.287+)"
       }
      ],
-     "detalhe": "Adaptar Claude a tu forma de trabajar. Los comandos de barra son atajos que escribes con /, como /rewind y /recap. Mods cambian la apariencia y el comportamiento de Claude Code (una barra, un aviso, un comando nuevo) y requieren la versiÃ³n 2.1.287 o posterior."
+     "detalhe": "Adaptar Claude a tu forma de trabajar. Los comandos de barra son atajos que escribes con /, como /rewind y /recap. Mods cambian la apariencia y el comportamiento de Claude Code (una barra, un aviso, un comando nuevo) y requieren la versiêÂ³n 2.1.287 o posterior."
     }
    ],
-   "legenda": "Seis grupos, trece novedades. No necesitas todas: la lista del final de la clase muestra cuÃ¡les ya estÃ¡n en tu Claude.",
+   "legenda": "Seis grupos, trece novedades. No necesitas todas: la lista del final de la clase muestra cuêÂ¡les ya estêÂ¡n en tu Claude.",
    "rolagem": true,
    "rolagem_fim": {
     "titulo": "Tu mapa",
-    "texto": "Organizar, delegar, usar apps y sitios web, trabajar lejos de la computadora, entregar y personalizar. Las prÃ³ximas seis clases siguen ese orden y siempre usan el trabajo de Carla como ejemplo.",
+    "texto": "Organizar, delegar, usar apps y sitios web, trabajar lejos de la computadora, entregar y personalizar. Las prêÂ³ximas seis clases siguen ese orden y siempre usan el trabajo de Carla como ejemplo.",
     "curto": "Seis grupos, una clase para cada uno."
    }
   },
   {
    "tipo": "passos",
    "titulo": "Antes de probar: cuatro comprobaciones",
-   "sub": "QuÃ© es Â«Claude Code 2.0Â» y quÃ© requiere cada novedad.",
+   "sub": "QuêÂ© es êÂ«Claude Code 2.0êÂ» y quêÂ© requiere cada novedad.",
    "passos": [
     {
      "titulo": "El apodo",
      "sub": "versiones 2.1.x",
      "texto": [
-      "Claude Code es el asistente de Anthropic que trabaja con tus archivos y tu computadora, no solo en el chat. Â«Claude Code 2.0Â» es el apodo que mucha gente le dio al conjunto de novedades de sus versiones 2.1.x.",
-      "No existe un botÃ³n Â«2.0Â». Tampoco es Claude 2, un modelo antiguo de Anthropic: aquÃ­ hablamos de Claude Code en las versiones 2.1.x."
+      "Claude Code es el asistente de Anthropic que trabaja con tus archivos y tu computadora, no solo en el chat. êÂ«Claude Code 2.0êÂ» es el apodo que mucha gente le dio al conjunto de novedades de sus versiones 2.1.x.",
+      "No existe un botêÂ³n êÂ«2.0êÂ». Tampoco es Claude 2, un modelo antiguo de Anthropic: aquêÂ­ hablamos de Claude Code en las versiones 2.1.x."
      ],
      "exemplo": {
       "rot": "Para recordar",
-      "texto": "Cuando alguien diga Â«Claude Code 2.0Â», piensa en las novedades de las versiones 2.1.x."
+      "texto": "Cuando alguien diga êÂ«Claude Code 2.0êÂ», piensa en las novedades de las versiones 2.1.x."
      }
     },
     {
      "titulo": "La app",
      "sub": "Mac o Windows",
      "texto": [
-      "Casi todas las novedades estÃ¡n en la pestaÃ±a Code de la app de Claude para Mac y Windows. La pestaÃ±a Code es la parte de la app donde Claude trabaja en una carpeta de tu computadora.",
-      "En Linux, la app no funciona: la opciÃ³n es Claude Code en la terminal (la ventana de comandos). AllÃ­ funcionan los comandos de barra, el chat lateral con /btw y Remote Control."
+      "Casi todas las novedades estêÂ¡n en la pestaêÂ±a Code de la app de Claude para Mac y Windows. La pestaêÂ±a Code es la parte de la app donde Claude trabaja en una carpeta de tu computadora.",
+      "En Linux, la app no funciona: la opciêÂ³n es Claude Code en la terminal (la ventana de comandos). AllêÂ­ funcionan los comandos de barra, el chat lateral con /btw y Remote Control."
      ],
      "exemplo": {
       "rot": "Carla",
-      "texto": "Usa una laptop con Windows. HarÃ¡ casi todo desde la app, en la pestaÃ±a Code, sin abrir la terminal."
+      "texto": "Usa una laptop con Windows. HarêÂ¡ casi todo desde la app, en la pestaêÂ±a Code, sin abrir la terminal."
      }
     },
     {
      "titulo": "El plan",
      "sub": "Pro, Max, Ultra",
      "texto": [
-      "Las novedades requieren un plan de pago (Pro, Max, Ultra, Team o Enterprise). Lo que aparece para ti cambia segÃºn el plan.",
-      "Computer use no estÃ¡ disponible en Team ni Enterprise. Motion, en cambio, solo existe en Team y Enterprise. Projects y Claude Duet requieren apuntarse a una lista de espera, y Duet por ahora solo estÃ¡ disponible en EE. UU."
+      "Las novedades requieren un plan de pago (Pro, Max, Ultra, Team o Enterprise). Lo que aparece para ti cambia segêÂºn el plan.",
+      "Computer use no estêÂ¡ disponible en Team ni Enterprise. Motion, en cambio, solo existe en Team y Enterprise. Projects y Claude Duet requieren apuntarse a una lista de espera, y Duet por ahora solo estêÂ¡ disponible en EE. UU."
      ],
      "exemplo": {
       "rot": "Carla",
-      "texto": "Tiene Pro. Ya sabe que Motion no le aparecerÃ¡ y que Duet tendrÃ¡ que esperar."
+      "texto": "Tiene Pro. Ya sabe que Motion no le aparecerêÂ¡ y que Duet tendrêÂ¡ que esperar."
      }
     },
     {
-     "titulo": "La versiÃ³n",
+     "titulo": "La versiêÂ³n",
      "sub": "app actualizada",
      "texto": [
-      "Muchas cosas dependen de la versiÃ³n instalada. Actualiza la app antes de probar: cuando una novedad Â«no apareceÂ», casi siempre es porque la app estÃ¡ desactualizada.",
-      "Si solo usas la app, no necesitas ver ningÃºn nÃºmero: basta con anotar la fecha de actualizaciÃ³n. Si tienes la terminal (opcional), puedes ejecutar claude --version y ver el nÃºmero, que empieza con 2.1. Los mods requieren la versiÃ³n 2.1.287 o posterior."
+      "Muchas cosas dependen de la versiêÂ³n instalada. Actualiza la app antes de probar: cuando una novedad êÂ«no apareceêÂ», casi siempre es porque la app estêÂ¡ desactualizada.",
+      "Si solo usas la app, no necesitas ver ningêÂºn nêÂºmero: basta con anotar la fecha de actualizaciêÂ³n. Si tienes la terminal (opcional), puedes ejecutar claude --version y ver el nêÂºmero, que empieza con 2.1. Los mods requieren la versiêÂ³n 2.1.287 o posterior."
      ],
      "exemplo": {
-      "rot": "Regla prÃ¡ctica",
-      "texto": "Antes de decir Â«no lo tengoÂ», actualiza y vuelve a revisar."
+      "rot": "Regla prêÂ¡ctica",
+      "texto": "Antes de decir êÂ«no lo tengoêÂ», actualiza y vuelve a revisar."
      }
     }
    ]
@@ -204,29 +204,29 @@
   {
    "tipo": "codigo",
    "titulo": "Revisa lo que ya tienes",
-   "sub": "Si tienes la terminal, consulta la versiÃ³n (opcional). DespuÃ©s, pÃ­dele a Claude que prepare tu lista a partir de lo que aparece en tu app.",
+   "sub": "Si tienes la terminal, consulta la versiêÂ³n (opcional). DespuêÂ©s, pêÂ­dele a Claude que prepare tu lista a partir de lo que aparece en tu app.",
    "blocos": [
     {
-     "rot": "Terminal (opcional) Â· ver la versiÃ³n",
+     "rot": "Terminal (opcional) êÂ· ver la versiêÂ³n",
      "icone": "terminal",
      "conteudo": "claude --version"
     },
     {
-     "rot": "Prompt Â· preparar mi lista",
+     "rot": "Prompt êÂ· preparar mi lista",
      "icone": "chat",
-     "conteudo": "Quiero saber cuÃ¡les novedades de Claude Code ya puedo usar.\nMi sistema: <Mac o Windows>\nMi plan: <Pro, Max, Ultra, Team o Enterprise>\nMi versiÃ³n: <el nÃºmero de la terminal, o: solo uso la app, actualizada el [fecha]>\n\nCon esta informaciÃ³n, separa estas 13 novedades en tres grupos: TENGO, NO TENGO y LISTA DE ESPERA.\nSecciones por proyecto, chat lateral, vista dividida, subagentes, computer use, Projects, Remote Control, navegador integrado, Slides/Design/Dashboards/Motion, Docs compartidos, comandos de barra, mods, Claude Duet.\n\nUna sola lÃ­nea por novedad, con el motivo (plan, sistema, versiÃ³n o paÃ­s).\nAl final, dime cuÃ¡les deberÃ­a revisar en pantalla porque no tienes certeza."
+     "conteudo": "Quiero saber cuêÂ¡les novedades de Claude Code ya puedo usar.\nMi sistema: <Mac o Windows>\nMi plan: <Pro, Max, Ultra, Team o Enterprise>\nMi versiêÂ³n: <el nêÂºmero de la terminal, o: solo uso la app, actualizada el [fecha]>\n\nCon esta informaciêÂ³n, separa estas 13 novedades en tres grupos: TENGO, NO TENGO y LISTA DE ESPERA.\nSecciones por proyecto, chat lateral, vista dividida, subagentes, computer use, Projects, Remote Control, navegador integrado, Slides/Design/Dashboards/Motion, Docs compartidos, comandos de barra, mods, Claude Duet.\n\nUna sola lêÂ­nea por novedad, con el motivo (plan, sistema, versiêÂ³n o paêÂ­s).\nAl final, dime cuêÂ¡les deberêÂ­a revisar en pantalla porque no tienes certeza."
     }
    ],
    "saida": {
     "selo": "simulacao",
     "abas": [
      {
-      "rot": "VersiÃ³n (terminal)",
+      "rot": "VersiêÂ³n (terminal)",
       "html": "<pre>2.1.312 (Claude Code)</pre>"
      },
      {
       "rot": "Respuesta de Claude (Carla)",
-      "html": "<p><b>Windows Â· Pro Â· 2.1.312</b></p><ul><li><b>TENGO:</b> secciones, chat lateral, vista dividida, subagentes, computer use (vista previa, viene desactivado: actÃ­valo en la configuraciÃ³n), Remote Control, navegador integrado, Slides y Design, Dashboards (beta), Docs compartidos, comandos de barra, mods (tu versiÃ³n es posterior a la 2.1.287).</li><li><b>NO TENGO:</b> Motion (solo Team y Enterprise).</li><li><b>LISTA DE ESPERA:</b> Projects (beta, apÃºntate a la lista); Claude Duet (por ahora, solo en EE. UU.).</li></ul><p>Revisa en pantalla si Projects ya aparece en la barra lateral de la pestaÃ±a Code y si computer use aparece en la configuraciÃ³n. La disponibilidad cambia segÃºn la cuenta.</p>"
+      "html": "<p><b>Windows êÂ· Pro êÂ· 2.1.312</b></p><ul><li><b>TENGO:</b> secciones, chat lateral, vista dividida, subagentes, computer use (vista previa, viene desactivado: actêÂ­valo en la configuraciêÂ³n), Remote Control, navegador integrado, Slides y Design, Dashboards (beta), Docs compartidos, comandos de barra, mods (tu versiêÂ³n es posterior a la 2.1.287).</li><li><b>NO TENGO:</b> Motion (solo Team y Enterprise).</li><li><b>LISTA DE ESPERA:</b> Projects (beta, apêÂºntate a la lista); Claude Duet (por ahora, solo en EE. UU.).</li></ul><p>Revisa en pantalla si Projects ya aparece en la barra lateral de la pestaêÂ±a Code y si computer use aparece en la configuraciêÂ³n. La disponibilidad cambia segêÂºn la cuenta.</p>"
      }
     ]
    }
@@ -234,15 +234,15 @@
   {
    "tipo": "conferidor",
    "titulo": "Revisa tu lista",
-   "sub": "Escribe tu lista con las cinco lÃ­neas de abajo (o pega la que preparÃ³ Claude, ajustada a lo que ves en pantalla). La pÃ¡gina comprueba que ninguna estÃ© vacÃ­a y que hayas indicado el plan. En la lÃ­nea VersiÃ³n, puedes poner el nÃºmero de la terminal o Â«app actualizada el [fecha]Â». Es una comprobaciÃ³n de formato: tÃº confirmas que la lista sea correcta revisando tu app.",
+   "sub": "Escribe tu lista con las cinco lêÂ­neas de abajo (o pega la que preparêÂ³ Claude, ajustada a lo que ves en pantalla). La pêÂ¡gina comprueba que ninguna estêÂ© vacêÂ­a y que hayas indicado el plan. En la lêÂ­nea VersiêÂ³n, puedes poner el nêÂºmero de la terminal o êÂ«app actualizada el [fecha]êÂ». Es una comprobaciêÂ³n de formato: têÂº confirmas que la lista sea correcta revisando tu app.",
    "arquivo": "mi-lista.txt",
-   "rot": "Pega aquÃ­ tu lista (una lÃ­nea por campo):",
-   "modelo": "VersiÃ³n: ... (el nÃºmero 2.1â€¦ de la terminal, o: app actualizada el [fecha])\nPlan: ...\nTengo: ...\nNo tengo: ...\nLista de espera: ...",
+   "rot": "Pega aquêÂ­ tu lista (una lêÂ­nea por campo):",
+   "modelo": "VersiêÂ³n: ... (el nêÂºmero 2.1ê¢â¬Â¦ de la terminal, o: app actualizada el [fecha])\nPlan: ...\nTengo: ...\nNo tengo: ...\nLista de espera: ...",
    "regras": [
     {
      "tipo": "campos",
      "campos": [
-      "VersiÃ³n",
+      "VersiêÂ³n",
       "Plan",
       "Tengo",
       "No tengo",
@@ -269,44 +269,44 @@
     }
    ],
    "ok": "OK: lista con los {n} campos completos",
-   "exemplo": "VersiÃ³n: app actualizada el 03/11/2026\nPlan: Pro\nTengo: secciones, chat lateral, vista dividida, subagentes, computer use, Remote Control, navegador integrado, Slides, Design, Dashboards, Docs, comandos, mods\nNo tengo: Motion (solo Team y Enterprise)\nLista de espera: Projects y Claude Duet",
-   "exemplo_errado": "VersiÃ³n: 2.1.312\nPlan: el mÃ¡s barato\nTengo: casi todo\nNo tengo: Motion"
+   "exemplo": "VersiêÂ³n: app actualizada el 03/11/2026\nPlan: Pro\nTengo: secciones, chat lateral, vista dividida, subagentes, computer use, Remote Control, navegador integrado, Slides, Design, Dashboards, Docs, comandos, mods\nNo tengo: Motion (solo Team y Enterprise)\nLista de espera: Projects y Claude Duet",
+   "exemplo_errado": "VersiêÂ³n: 2.1.312\nPlan: el mêÂ¡s barato\nTengo: casi todo\nNo tengo: Motion"
   },
   {
    "tipo": "pratica",
-   "titulo": "PrÃ¡ctica: tu mapa",
-   "sub": "Quince minutos. Sin esto, las prÃ³ximas clases serÃ¡n una adivinanza.",
+   "titulo": "PrêÂ¡ctica: tu mapa",
+   "sub": "Quince minutos. Sin esto, las prêÂ³ximas clases serêÂ¡n una adivinanza.",
    "exercicios": [
     {
      "id": "e1",
-     "titulo": "E1 Â· Actualizar la app",
+     "titulo": "E1 êÂ· Actualizar la app",
      "min": "5 min",
-     "texto": "Actualiza la app de Claude y anota la fecha de hoy. Si tambiÃ©n usas Claude Code en la terminal (opcional), ejecuta claude --version y anota el nÃºmero.",
-     "pronto": "anotaste Â«app actualizada el [fecha]Â» (o, en la terminal, un nÃºmero que empieza con 2.1)."
+     "texto": "Actualiza la app de Claude y anota la fecha de hoy. Si tambiêÂ©n usas Claude Code en la terminal (opcional), ejecuta claude --version y anota el nêÂºmero.",
+     "pronto": "anotaste êÂ«app actualizada el [fecha]êÂ» (o, en la terminal, un nêÂºmero que empieza con 2.1)."
     },
     {
      "id": "e2",
-     "titulo": "E2 Â· La lista con Claude",
+     "titulo": "E2 êÂ· La lista con Claude",
      "min": "5 min",
-     "texto": "Pega el prompt Â«preparar mi listaÂ» en Claude (en la app, en la pestaÃ±a Code o en claude.ai), con tu sistema, plan y versiÃ³n.",
-     "pronto": "Claude devolviÃ³ las 13 novedades separadas en TENGO, NO TENGO y LISTA DE ESPERA."
+     "texto": "Pega el prompt êÂ«preparar mi listaêÂ» en Claude (en la app, en la pestaêÂ±a Code o en claude.ai), con tu sistema, plan y versiêÂ³n.",
+     "pronto": "Claude devolviêÂ³ las 13 novedades separadas en TENGO, NO TENGO y LISTA DE ESPERA."
     },
     {
      "id": "e3",
-     "titulo": "E3 Â· Revisar en pantalla",
+     "titulo": "E3 êÂ· Revisar en pantalla",
      "min": "5 min",
-     "texto": "Revisa en la app lo que Claude marcÃ³ como Â«revisar en pantallaÂ» (Projects en la barra lateral, computer use en la configuraciÃ³n). Corrige la lista en el verificador de arriba y guÃ¡rdala con el botÃ³n Â«Descargar el archivoÂ»: se descargarÃ¡ mi-lista.txt, listo para usar.",
-     "pronto": "el verificador de arriba responde Â«OK: lista con los 5 campos completosÂ» (en VersiÃ³n, el nÃºmero o la fecha en que actualizaste la app) y cada una de las 13 novedades aparece en una de las tres lÃ­neas."
+     "texto": "Revisa en la app lo que Claude marcêÂ³ como êÂ«revisar en pantallaêÂ» (Projects en la barra lateral, computer use en la configuraciêÂ³n). Corrige la lista en el verificador de arriba y guêÂ¡rdala con el botêÂ³n êÂ«Descargar el archivoêÂ»: se descargarêÂ¡ mi-lista.txt, listo para usar.",
+     "pronto": "el verificador de arriba responde êÂ«OK: lista con los 5 campos completosêÂ» (en VersiêÂ³n, el nêÂºmero o la fecha en que actualizaste la app) y cada una de las 13 novedades aparece en una de las tres lêÂ­neas."
     }
    ]
   },
   {
    "tipo": "quiz",
    "titulo": "Pon a prueba lo que aprendiste",
-   "sub": "La explicaciÃ³n aparece despuÃ©s de tu respuesta.",
+   "sub": "La explicaciêÂ³n aparece despuêÂ©s de tu respuesta.",
    "perguntas": [
     {
-     "p": "Â¿QuÃ© es \"Claude Code 2.0\"?",
+     "p": "êÂ¿QuêÂ© es \"Claude Code 2.0\"?",
      "opcoes": [
       "Un modelo nuevo de Anthropic que sustituye definitivamente al antiguo Claude 2 en el chat.",
       "El apodo del paquete de novedades de las versiones 2.1.x de Claude Code.",
@@ -314,47 +314,47 @@
       "Una app aparte que descargas por separado."
      ],
      "certa": 1,
-     "explica": "No existe un botÃ³n \"2.0\": son las novedades de las versiones 2.1.x de Claude Code. El error comÃºn es confundirlo con Claude 2, un modelo antiguo.",
+     "explica": "No existe un botêÂ³n \"2.0\": son las novedades de las versiones 2.1.x de Claude Code. El error comêÂºn es confundirlo con Claude 2, un modelo antiguo.",
      "ref": "passos"
     },
     {
-     "p": "Carla vive en Colombia (fuera de EE. UU.) y tiene una suscripciÃ³n Pro. Â¿QuÃ© puede esperar hoy de Claude Duet?",
+     "p": "Carla vive en Colombia (fuera de EE. UU.) y tiene una suscripciêÂ³n Pro. êÂ¿QuêÂ© puede esperar hoy de Claude Duet?",
      "opcoes": [
-      "Ya aparece en la pestaÃ±a Code para quienes tienen una suscripciÃ³n Pro, en cualquier paÃ­s y sin lista de espera.",
+      "Ya aparece en la pestaêÂ±a Code para quienes tienen una suscripciêÂ³n Pro, en cualquier paêÂ­s y sin lista de espera.",
       "Solo funciona en la terminal, con el comando /duet.",
-      "EstÃ¡ disponible en Pro, pero requiere la versiÃ³n 2.1.287.",
-      "TodavÃ­a no: hoy solo estÃ¡ disponible en EE. UU., en vista previa y con lista de espera."
+      "EstêÂ¡ disponible en Pro, pero requiere la versiêÂ³n 2.1.287.",
+      "TodavêÂ­a no: hoy solo estêÂ¡ disponible en EE. UU., en vista previa y con lista de espera."
      ],
      "certa": 3,
-     "explica": "Duet solo estÃ¡ disponible en EE. UU., en vista previa y con lista de espera. Tener el plan adecuado no basta: el paÃ­s tambiÃ©n cuenta.",
+     "explica": "Duet solo estêÂ¡ disponible en EE. UU., en vista previa y con lista de espera. Tener el plan adecuado no basta: el paêÂ­s tambiêÂ©n cuenta.",
      "ref": "diagrama"
     },
     {
-     "p": "Carla usa Windows, nunca abriÃ³ una terminal y quiere probar las novedades. Â¿Por dÃ³nde empieza?",
+     "p": "Carla usa Windows, nunca abriêÂ³ una terminal y quiere probar las novedades. êÂ¿Por dêÂ³nde empieza?",
      "opcoes": [
-      "Instalando primero la terminal, porque las novedades solo aparecen allÃ­.",
-      "Desde la app de Claude actualizada, en la pestaÃ±a Code.",
-      "CambiÃ¡ndose a una Mac, porque no hay app para Windows.",
-      "Esperando una versiÃ³n \"2.0\" con su propio botÃ³n."
+      "Instalando primero la terminal, porque las novedades solo aparecen allêÂ­.",
+      "Desde la app de Claude actualizada, en la pestaêÂ±a Code.",
+      "CambiêÂ¡ndose a una Mac, porque no hay app para Windows.",
+      "Esperando una versiêÂ³n \"2.0\" con su propio botêÂ³n."
      ],
      "certa": 1,
-     "explica": "La app de Claude para Mac y Windows tiene la pestaÃ±a Code, donde estÃ¡n casi todas las novedades; la terminal es opcional. El error comÃºn es pensar que necesitas la terminal o un botÃ³n \"2.0\".",
+     "explica": "La app de Claude para Mac y Windows tiene la pestaêÂ±a Code, donde estêÂ¡n casi todas las novedades; la terminal es opcional. El error comêÂºn es pensar que necesitas la terminal o un botêÂ³n \"2.0\".",
      "ref": "passos"
     },
     {
-     "p": "Sobre Claude Motion (video animado), Â¿quÃ© es cierto?",
+     "p": "Sobre Claude Motion (video animado), êÂ¿quêÂ© es cierto?",
      "opcoes": [
-      "EstÃ¡ disponible en todos los planes, de Pro a Enterprise, igual que Slides y Design.",
-      "Es un nombre no oficial que inventÃ³ internet para Claude Design.",
-      "Es oficial, estÃ¡ en beta y solo aparece en los planes Team y Enterprise.",
+      "EstêÂ¡ disponible en todos los planes, de Pro a Enterprise, igual que Slides y Design.",
+      "Es un nombre no oficial que inventêÂ³ internet para Claude Design.",
+      "Es oficial, estêÂ¡ en beta y solo aparece en los planes Team y Enterprise.",
       "Es exclusivo de la terminal y de Linux."
      ],
      "certa": 2,
-     "explica": "Motion es oficial, estÃ¡ en beta y solo estÃ¡ disponible en Team y Enterprise. Quienes lo confunden suelen mezclarlo con \"Motion Studio\", que no es un nombre oficial.",
+     "explica": "Motion es oficial, estêÂ¡ en beta y solo estêÂ¡ disponible en Team y Enterprise. Quienes lo confunden suelen mezclarlo con \"Motion Studio\", que no es un nombre oficial.",
      "ref": "diagrama"
     },
     {
-     "p": "No aparece una novedad en tu app. Â¿QuÃ© haces primero?",
+     "p": "No aparece una novedad en tu app. êÂ¿QuêÂ© haces primero?",
      "opcoes": [
       "Concluir que tu plan no te da acceso y pedir un reembolso.",
       "Reinstalar el sistema operativo de la computadora.",
@@ -362,7 +362,7 @@
       "Actualizar la app y volver a revisar."
      ],
      "certa": 3,
-     "explica": "Muchas funciones dependen de la versiÃ³n. La app desactualizada es el motivo mÃ¡s comÃºn: actualÃ­zala y vuelve a revisar; solo despuÃ©s considera el plan, el sistema y el paÃ­s.",
+     "explica": "Muchas funciones dependen de la versiêÂ³n. La app desactualizada es el motivo mêÂ¡s comêÂºn: actualêÂ­zala y vuelve a revisar; solo despuêÂ©s considera el plan, el sistema y el paêÂ­s.",
      "ref": "codigo"
     }
    ]
@@ -381,7 +381,7 @@
     },
     {
      "t": "Tu lista",
-     "texto": "App actualizada, plan verificado y cada novedad clasificada como la tengo, no la tengo o estÃ¡ en lista de espera."
+     "texto": "App actualizada, plan verificado y cada novedad clasificada como la tengo, no la tengo o estêÂ¡ en lista de espera."
     }
    ]
   },
@@ -390,17 +390,17 @@
    "titulo": "Para profundizar",
    "links": [
     {
-     "t": "La app de Claude para computadora (documentaciÃ³n, en inglÃ©s)",
+     "t": "La app de Claude para computadora (documentaciêÂ³n, en inglêÂ©s)",
      "href": "https://code.claude.com/docs/en/desktop",
      "icone": "lista"
     },
     {
-     "t": "QuÃ© cambiÃ³ en cada versiÃ³n (registro de cambios, en inglÃ©s)",
+     "t": "QuêÂ© cambiêÂ³ en cada versiêÂ³n (registro de cambios, en inglêÂ©s)",
      "href": "https://code.claude.com/docs/en/changelog",
      "icone": "relogio"
     },
     {
-     "t": "GuÃ­a de las 13 novedades con un prompt listo",
+     "t": "GuêÂ­a de las 13 novedades con un prompt listo",
      "href": "https://linnoff88-dev.github.io/
      "icone": "seta"
     }

@@ -5,7 +5,7 @@
   "titulo": "Entregar: slides, painéis e documentos compartilhados",
   "titulo_curto": "Entregar",
   "minutos": 15,
-  "lead": "Trabalho pronto só vale quando chega a alguém. Agora você pede ao Claude uma apresentação, uma arte, um painel de números ou um documento, vê pronto na conversa, ajusta em palavras e compartilha por link. Nesta aula a Carla transforma a aula 1 em 7 slides e monta um documento de convidados que a equipe edita junto, conferindo antes de mandar.",
+  "lead": "Trabalho pronto só vale quando chega a alguém. Agora você pede ao Claude uma apresentaçêo, uma arte, um painel de números ou um documento, vê pronto na conversa, ajusta em palavras e compartilha por link. Nesta aula a Carla transforma a aula 1 em 7 slides e monta um documento de convidados que a equipe edita junto, conferindo antes de mandar.",
   "objetivo": "Transformar o trabalho em slides, painel ou documento compartilhado e conferir antes de mandar.",
   "competencias": [
     "gerar-entregaveis",
@@ -30,7 +30,7 @@
       "t": "Compartilhar com ver, comentar ou editar"
     }
   ],
-  "hero_alt": "Mesa de professora: notebook mostrando uma apresentação preta e amarela sobre planilhas, ao lado de uma xícara e um caderno com três números circulados.",
+  "hero_alt": "Mesa de professora: notebook mostrando uma apresentaçêo preta e amarela sobre planilhas, ao lado de uma xícara e um caderno com três números circulados.",
   "secoes": [
     {
       "tipo": "diagrama",
@@ -76,20 +76,20 @@
               "t": "@Claude no comentário"
             }
           ],
-          "detalhe": "A peça nasce privada: só você vê. No botão Share (compartilhar) você escolhe quem acessa. Num documento, cada pessoa pode ver, comentar ou editar, e você, dono do doc, marca @Claude num comentário para ele revisar ali mesmo."
+          "detalhe": "A peça nasce privada: só você vê. No botêo Share (compartilhar) você escolhe quem acessa. Num documento, cada pessoa pode ver, comentar ou editar, e você, dono do doc, marca @Claude num comentário para ele revisar ali mesmo."
         }
       ],
       "legenda": "Pedir, ver e ajustar podem dar várias voltas. Conferir e compartilhar acontecem uma vez, nessa ordem.",
       "rolagem": true,
       "rolagem_fim": {
         "titulo": "Entrega conferida",
-        "texto": "Peça em palavras, ajuste em palavras, confira 3 números com a fonte e só então mande o link."
+        "texto": "Peça em palavras, ajuste em palavras, confira 3 números com a fonte e só entêo mande o link."
       }
     },
     {
       "tipo": "passos",
       "titulo": "O que dá para pedir",
-      "sub": "Os nomes oficiais e em que plano cada um vale. Não existe \"Motion Studio\": o nome certo é Claude Motion.",
+      "sub": "Os nomes oficiais e em que plano cada um vale. Nêo existe \"Motion Studio\": o nome certo é Claude Motion.",
       "passos": [
         {
           "titulo": "Slides e Design",
@@ -120,7 +120,7 @@
           "sub": "Team e Enterprise",
           "texto": [
             "O Claude Motion faz vídeo animado por código e exporta em MP4.",
-            "Está em beta e só nos planos Team e Enterprise. Em Pro, Max e Ultra ele não aparece: fique com Slides e Design."
+            "Está em beta e só nos planos Team e Enterprise. Em Pro, Max e Ultra ele nêo aparece: fique com Slides e Design."
           ]
         },
         {
@@ -145,17 +145,17 @@
         {
           "rot": "1 · Pedido dos slides",
           "icone": "chat",
-          "conteudo": "Monte uma apresentação de 7 slides a partir do roteiro da aula 1 (curso-planilhas/aula-1/roteiro.md).\nPúblico: adultos que nunca usaram fórmulas.\nUma ideia por slide, no máximo 20 palavras por slide, letras grandes.\nCores: preto e amarelo.\nSlide 7: um exercício para o aluno fazer sozinho."
+          "conteudo": "Monte uma apresentaçêo de 7 slides a partir do roteiro da aula 1 (curso-planilhas/aula-1/roteiro.md).\nPúblico: adultos que nunca usaram fórmulas.\nUma ideia por slide, no máximo 20 palavras por slide, letras grandes.\nCores: preto e amarelo.\nSlide 7: um exercício para o aluno fazer sozinho."
         },
         {
           "rot": "2 · Ajustes em palavras",
           "icone": "caneta",
-          "conteudo": "Slide 3: troque o texto por um exemplo de planilha com 4 linhas.\nSlide 5: letra maior e menos texto.\nNão mude os outros slides."
+          "conteudo": "Slide 3: troque o texto por um exemplo de planilha com 4 linhas.\nSlide 5: letra maior e menos texto.\nNêo mude os outros slides."
         },
         {
           "rot": "3 · Pedido de conferência",
           "icone": "check",
-          "conteudo": "Liste todos os números, datas e fórmulas que aparecem nos 7 slides.\nPara cada um, diga em que linha do roteiro ele está.\nMarque com ATENÇÃO o que não está no roteiro."
+          "conteudo": "Liste todos os números, datas e fórmulas que aparecem nos 7 slides.\nPara cada um, diga em que linha do roteiro ele está.\nMarque com ATENÇêO o que nêo está no roteiro."
         },
         {
           "rot": "4 · Painel de números (Dashboards, beta)",
@@ -173,11 +173,11 @@
         "abas": [
           {
             "rot": "Os 7 slides",
-            "html": "<ol><li>Planilha não é bicho de sete cabeças.</li><li>Célula, linha e coluna: o endereço de tudo.</li><li>Uma lista de compras com 4 itens.</li><li>A primeira fórmula: =SOMA(B2:B5).</li><li>Quando a soma dá errado: célula com texto.</li><li>Copiar a fórmula para baixo.</li><li>Exercício: some os gastos da semana.</li></ol>"
+            "html": "<ol><li>Planilha nêo é bicho de sete cabeças.</li><li>Célula, linha e coluna: o endereço de tudo.</li><li>Uma lista de compras com 4 itens.</li><li>A primeira fórmula: =SOMA(B2:B5).</li><li>Quando a soma dá errado: célula com texto.</li><li>Copiar a fórmula para baixo.</li><li>Exercício: some os gastos da semana.</li></ol>"
           },
           {
             "rot": "Resposta à conferência",
-            "html": "<ul><li><b>=SOMA(B2:B5)</b> (slide 4): roteiro, linha 18.</li><li><b>4 itens</b> (slide 3): roteiro, linha 12.</li><li><b>ATENÇÃO: \"7 dias\"</b> (slide 7): não está no roteiro, eu acrescentei. Quer manter?</li></ul>"
+            "html": "<ul><li><b>=SOMA(B2:B5)</b> (slide 4): roteiro, linha 18.</li><li><b>4 itens</b> (slide 3): roteiro, linha 12.</li><li><b>ATENÇêO: \"7 dias\"</b> (slide 7): nêo está no roteiro, eu acrescentei. Quer manter?</li></ul>"
           },
           {
             "rot": "Erros comuns",
@@ -194,7 +194,7 @@
         {
           "rot": "Documento compartilhado",
           "icone": "arquivo",
-          "conteudo": "Crie um documento para controlar os convidados das lives da minha comunidade em dezembro.\nUma tabela com: nome, tema da live, data, horário e situação (convidado, confirmado, gravado).\nComece com 3 linhas de exemplo marcadas como EXEMPLO.\nEmbaixo, uma lista curta do que fazer na semana da live.\nDeixe pronto para eu compartilhar com a minha monitora."
+          "conteudo": "Crie um documento para controlar os convidados das lives da minha comunidade em dezembro.\nUma tabela com: nome, tema da live, data, horário e situaçêo (convidado, confirmado, gravado).\nComece com 3 linhas de exemplo marcadas como EXEMPLO.\nEmbaixo, uma lista curta do que fazer na semana da live.\nDeixe pronto para eu compartilhar com a minha monitora."
         }
       ],
       "saida": {
@@ -202,7 +202,7 @@
         "abas": [
           {
             "rot": "Como compartilhar",
-            "html": "<ol><li>Clique em <b>Share</b> (compartilhar) no documento.</li><li>Escolha o acesso, por exemplo <b>Only you</b> (só você) ou <b>Anyone with the link</b> (quem tiver o link), mais convite por e-mail. As opções mudam conforme o plano.</li><li>Para a monitora: convite por e-mail, com permissão de <b>editar</b>.</li><li>Teste: mande o link para uma pessoa da equipe e peça para ela abrir. Ela entra com a conta Claude dela.</li></ol>"
+            "html": "<ol><li>Clique em <b>Share</b> (compartilhar) no documento.</li><li>Escolha o acesso, por exemplo <b>Only you</b> (só você) ou <b>Anyone with the link</b> (quem tiver o link), mais convite por e-mail. As opções mudam conforme o plano.</li><li>Para a monitora: convite por e-mail, com permissêo de <b>editar</b>.</li><li>Teste: mande o link para uma pessoa da equipe e peça para ela abrir. Ela entra com a conta Claude dela.</li></ol>"
           },
           {
             "rot": "@Claude no comentário",
@@ -210,7 +210,7 @@
           },
           {
             "rot": "Limites",
-            "html": "<ul><li>A peça nasce privada; você decide compartilhar.</li><li>Quem abre precisa de conta Claude.</li><li>\"Anyone with the link\" quer dizer: quem tem o link pode abrir. Peças que usam o Claude por dentro ou que estão ligadas aos seus apps não podem usar essa opção.</li></ul>"
+            "html": "<ul><li>A peça nasce privada; você decide compartilhar.</li><li>Quem abre precisa de conta Claude.</li><li>\"Anyone with the link\" quer dizer: quem tem o link pode abrir. Peças que usam o Claude por dentro ou que estêo ligadas aos seus apps nêo podem usar essa opçêo.</li></ul>"
           }
         ]
       }
@@ -218,34 +218,34 @@
     {
       "tipo": "pratica",
       "titulo": "Prática: entregas conferidas",
-      "sub": "Tudo no claude.ai ou no app. Não precisa de terminal.",
+      "sub": "Tudo no claude.ai ou no app. Nêo precisa de terminal.",
       "exercicios": [
         {
           "id": "e1",
           "titulo": "E1 · Os slides",
           "min": "20 min",
           "texto": "Peça 7 slides a partir de um roteiro, aula ou texto seu, com o modelo da Carla. Faça pelo menos um ajuste em palavras. Depois rode o pedido de conferência.",
-          "pronto": "a apresentação tem 7 slides, você fez 1 ajuste em palavras e anotou 3 números, datas ou fórmulas conferidos com o texto original."
+          "pronto": "a apresentaçêo tem 7 slides, você fez 1 ajuste em palavras e anotou 3 números, datas ou fórmulas conferidos com o texto original."
         },
         {
           "id": "e2",
           "titulo": "E2 · O documento compartilhado",
           "min": "15 min",
-          "texto": "Crie um documento de controle (convidados, entregas ou tarefas da semana) com o prompt da Carla adaptado e compartilhe com uma pessoa da equipe pelo botão Share (compartilhar), escolhendo ver, comentar ou editar. Para abrir, ela precisa entrar com uma conta Claude.",
+          "texto": "Crie um documento de controle (convidados, entregas ou tarefas da semana) com o prompt da Carla adaptado e compartilhe com uma pessoa da equipe pelo botêo Share (compartilhar), escolhendo ver, comentar ou editar. Para abrir, ela precisa entrar com uma conta Claude.",
           "pronto": "você trocou as 3 linhas EXEMPLO por 3 lives (ou tarefas) reais, conferiu as datas no seu calendário, mandou o link para uma pessoa da equipe e ela abriu."
         },
         {
           "id": "e3",
           "titulo": "E3 · Um pedido ao @Claude",
           "min": "5 min",
-          "texto": "No seu documento, deixe um comentário marcando @Claude com um pedido de revisão de uma linha da tabela. Só você, dono do documento, chama o @Claude; quem recebe o link vê, comenta ou edita.",
+          "texto": "No seu documento, deixe um comentário marcando @Claude com um pedido de revisêo de uma linha da tabela. Só você, dono do documento, chama o @Claude; quem recebe o link vê, comenta ou edita.",
           "pronto": "a resposta do Claude aparece no próprio comentário."
         },
         {
           "id": "e4",
           "titulo": "E4 · Um painel (Dashboards, beta)",
           "min": "10 min",
-          "texto": "Dashboards está em beta (em teste): se não aparecer para você, pule este. Pegue uma planilha simples, com uns 10 números (inscritos, vendas ou gastos por mês), e cole o pedido \"Painel de números\" adaptado.",
+          "texto": "Dashboards está em beta (em teste): se nêo aparecer para você, pule este. Pegue uma planilha simples, com uns 10 números (inscritos, vendas ou gastos por mês), e cole o pedido \"Painel de números\" adaptado.",
           "pronto": "o painel aparece na conversa e você conferiu 2 números dele com a planilha."
         },
         {
@@ -260,7 +260,7 @@
     {
       "tipo": "quiz",
       "titulo": "Teste o que aprendeu",
-      "sub": "A explicação aparece depois da sua resposta.",
+      "sub": "A explicaçêo aparece depois da sua resposta.",
       "perguntas": [
         {
           "p": "A Carla tem plano Pro e quer um vídeo animado da aula. O que ela encontra?",
@@ -271,7 +271,7 @@
             "O Claude Design, que transforma qualquer arte em vídeo animado."
           ],
           "certa": 2,
-          "explica": "O nome oficial é Claude Motion (\"Motion Studio\" não existe), em beta e só nos planos Team e Enterprise. Slides e Design valem em todos os planos.",
+          "explica": "O nome oficial é Claude Motion (\"Motion Studio\" nêo existe), em beta e só nos planos Team e Enterprise. Slides e Design valem em todos os planos.",
           "ref": "passos"
         },
         {
@@ -295,15 +295,15 @@
             "Você, dono do documento."
           ],
           "certa": 3,
-          "explica": "Quem recebe pode ver, comentar ou editar conforme a permissão. Quem chama o @Claude nos comentários é você, o dono do doc.",
+          "explica": "Quem recebe pode ver, comentar ou editar conforme a permissêo. Quem chama o @Claude nos comentários é você, o dono do doc.",
           "ref": "codigo"
         },
         {
           "p": "Um slide saiu com a letra pequena. Qual o melhor pedido?",
           "opcoes": [
-            "\"Refaça a apresentação inteira, está ruim.\"",
-            "\"Slide 5: letra maior e menos texto. Não mude os outros.\"",
-            "Baixar a apresentação e corrigir em outro programa.",
+            "\"Refaça a apresentaçêo inteira, está ruim.\"",
+            "\"Slide 5: letra maior e menos texto. Nêo mude os outros.\"",
+            "Baixar a apresentaçêo e corrigir em outro programa.",
             "\"Deixe todos os slides mais bonitos e mais profissionais, por favor.\""
           ],
           "certa": 1,
@@ -337,7 +337,7 @@
           "texto": "3 números ou datas comparados com a fonte original, antes do link."
         },
         {
-          "t": "Compartilhe com permissão",
+          "t": "Compartilhe com permissêo",
           "texto": "Ver, comentar ou editar; @Claude nos comentários do seu documento."
         }
       ]
@@ -352,7 +352,7 @@
           "icone": "compartilhar"
         },
         {
-          "t": "Artifacts na documentação oficial (em inglês)",
+          "t": "Artifacts na documentaçêo oficial (em inglês)",
           "href": "https://code.claude.com/docs/en/artifacts",
           "icone": "arquivo"
         }

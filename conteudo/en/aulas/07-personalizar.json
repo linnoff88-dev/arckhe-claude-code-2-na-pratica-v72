@@ -5,7 +5,7 @@
   "titulo": "Customize: slash commands, mods, and your routine",
   "titulo_curto": "Customize",
   "minutos": 16,
-  "lead": "Five short commands change how Claude works: undo, see whatâ€™s taking up space in the conversation, summarize, work toward a goal, and give shorter answers. Mods change how Claude Code looks, but you should check them first. At the end, Carla picks three new things from the course and writes her routine for the week. Youâ€™ll make yours.",
+  "lead": "Five short commands change how Claude works: undo, see whatê¢â¬â¢s taking up space in the conversation, summarize, work toward a goal, and give shorter answers. Mods change how Claude Code looks, but you should check them first. At the end, Carla picks three new things from the course and writes her routine for the week. Youê¢â¬â¢ll make yours.",
   "objetivo": "Adjust Claude with slash commands and mods, then build your routine with the new things you learned.",
   "competencias": [
     "use-slash-commands",
@@ -43,10 +43,10 @@
           "sub": "commands",
           "itens": [
             {
-              "t": "/rewind Â· /context"
+              "t": "/rewind êÂ· /context"
             },
             {
-              "t": "/recap Â· /goal"
+              "t": "/recap êÂ· /goal"
             },
             {
               "t": "/output-style"
@@ -66,7 +66,7 @@
               "t": "bars and commands"
             }
           ],
-          "detalhe": "A mod is a type of plugin (add-on), which is why its menu is called /plugin. It changes how Claude Code looks and behaves: a bar showing how much of the conversation youâ€™ve used, an alert when something finishes, or a new command. It appears in the appâ€™s Code tab (and also in the terminal and VS Code, a code editor)."
+          "detalhe": "A mod is a type of plugin (add-on), which is why its menu is called /plugin. It changes how Claude Code looks and behaves: a bar showing how much of the conversation youê¢â¬â¢ve used, an alert when something finishes, or a new command. It appears in the appê¢â¬â¢s Code tab (and also in the terminal and VS Code, a code editor)."
         },
         {
           "icone": "escudo",
@@ -80,14 +80,14 @@
               "t": "/plugin"
             }
           ],
-          "detalhe": "A mod doesnâ€™t run on its own: it can access whatever Claude Code can, including your files. So before installing, ask Claude to check what the mod does. If something goes wrong later, ask Claude to turn off the mod or use the /plugin menu. This part is optional and more technical."
+          "detalhe": "A mod doesnê¢â¬â¢t run on its own: it can access whatever Claude Code can, including your files. So before installing, ask Claude to check what the mod does. If something goes wrong later, ask Claude to turn off the mod or use the /plugin menu. This part is optional and more technical."
         },
         {
           "icone": "calendario",
           "titulo": "Your weekly",
           "sub": "routine",
           "forte": true,
-          "detalhe": "No one uses thirteen new things all at once. Pick three, say what day or when youâ€™ll use each one, and why. A week from now, replace the one that didnâ€™t stick."
+          "detalhe": "No one uses thirteen new things all at once. Pick three, say what day or when youê¢â¬â¢ll use each one, and why. A week from now, replace the one that didnê¢â¬â¢t stick."
         }
       ],
       "legenda": "Commands adjust the session; mods adjust Claude Code; your routine decides what you actually use.",
@@ -99,8 +99,8 @@
     },
     {
       "tipo": "passos",
-      "titulo": "The 5 commands, with Carlaâ€™s example",
-      "sub": "Type / in the message box (in the appâ€™s Code tab) and choose from the list. If a command doesnâ€™t appear, update the app and check again. If it still doesnâ€™t appear, ask Claude: \"how do I use /recap in this app?\". In the terminal (optional), they work the same way.",
+      "titulo": "The 5 commands, with Carlaê¢â¬â¢s example",
+      "sub": "Type / in the message box (in the appê¢â¬â¢s Code tab) and choose from the list. If a command doesnê¢â¬â¢t appear, update the app and check again. If it still doesnê¢â¬â¢t appear, ask Claude: \"how do I use /recap in this app?\". In the terminal (optional), they work the same way.",
       "passos": [
         {
           "titulo": "/rewind",
@@ -116,7 +116,7 @@
         },
         {
           "titulo": "/context",
-          "sub": "whatâ€™s taking up space",
+          "sub": "whatê¢â¬â¢s taking up space",
           "texto": [
             "Context is everything Claude is considering in this conversation: history, files it has read, and instructions. /context shows a color-coded chart of how much space each part takes up.",
             "A full conversation gets slower and uses more of your limit."
@@ -130,7 +130,7 @@
           "titulo": "/recap",
           "sub": "where I left off",
           "texto": [
-            "Gives you a one-line summary of the session right away. Useful when you come back from lunch and canâ€™t remember where you left off.",
+            "Gives you a one-line summary of the session right away. Useful when you come back from lunch and canê¢â¬â¢t remember where you left off.",
             "After a few exchanges, Claude also makes this summary on its own."
           ]
         },
@@ -139,7 +139,7 @@
           "sub": "reach the goal",
           "texto": [
             "Give Claude a clear goal, and it keeps working until it reaches it. A clear goal can be measured: \"5 exercises, each with an answer,\" not \"good exercises.\"",
-            "Without a measure, it doesnâ€™t know when to stop."
+            "Without a measure, it doesnê¢â¬â¢t know when to stop."
           ]
         },
         {
@@ -154,8 +154,8 @@
     },
     {
       "tipo": "codigo",
-      "titulo": "Carlaâ€™s commands on a work morning",
-      "sub": "One at a time, in the course folderâ€™s session.",
+      "titulo": "Carlaê¢â¬â¢s commands on a work morning",
+      "sub": "One at a time, in the course folderê¢â¬â¢s session.",
       "blocos": [
         {
           "rot": "Short answers and a recap",
@@ -168,7 +168,7 @@
           "conteudo": "/goal Create spreadsheet-course/lesson-2/exercises.md with 5 VLOOKUP exercises, each with a sample spreadsheet and the correct answer."
         },
         {
-          "rot": "See whatâ€™s taking up the conversation",
+          "rot": "See whatê¢â¬â¢s taking up the conversation",
           "icone": "lupa",
           "conteudo": "/context"
         }
@@ -186,7 +186,7 @@
           },
           {
             "rot": "Common mistakes",
-            "html": "<ul><li><b>/goal without a measure</b> (\"make good exercises\"): Claude doesnâ€™t know when itâ€™s done.</li><li><b>Argue instead of going back</b>: after a bad answer, use /rewind and ask in a different way.</li></ul>"
+            "html": "<ul><li><b>/goal without a measure</b> (\"make good exercises\"): Claude doesnê¢â¬â¢t know when itê¢â¬â¢s done.</li><li><b>Argue instead of going back</b>: after a bad answer, use /rewind and ask in a different way.</li></ul>"
           }
         ]
       }
@@ -194,33 +194,33 @@
     {
       "tipo": "passos",
       "titulo": "Mods: check before installing (optional, more technical)",
-      "sub": "You can skip this if you just want to use the app as it is. Ready-to-use examples: 18 tested mods in the linnoff88-dev/ARCKHÉ-mods repository on GitHub. Heads up: that repository is in Portuguese, so ask Claude to explain any mod in English. GitHub is a site where people store and share code; a repository is a project folder there.",
+      "sub": "You can skip this if you just want to use the app as it is. Ready-to-use examples: 18 tested mods in the linnoff88-dev/ARCKHê-mods repository on GitHub. Heads up: that repository is in Portuguese, so ask Claude to explain any mod in English. GitHub is a site where people store and share code; a repository is a project folder there.",
       "passos": [
         {
           "titulo": "Update",
           "sub": "2.1.287 or later",
           "texto": [
             "Mods require Claude Code version 2.1.287 or later. In the app, just keep it up to date; in the terminal (optional), <code>claude --version</code> shows the number.",
-            "Older version: the mod wonâ€™t appear, and itâ€™s not a problem with the mod."
+            "Older version: the mod wonê¢â¬â¢t appear, and itê¢â¬â¢s not a problem with the mod."
           ]
         },
         {
           "titulo": "Ask for a check",
           "sub": "first",
           "texto": [
-            "Mods arenâ€™t isolated: they can read your files and run commands, just like Claude Code. So have Claude check first: it runs a check command (<code>claude plugin validate</code>) in the modâ€™s folder.",
-            "This check shows when the mod acts on its own (the hooks) and what it asks to use. You donâ€™t need to understand the command: the prompt below asks for a summary in plain language."
+            "Mods arenê¢â¬â¢t isolated: they can read your files and run commands, just like Claude Code. So have Claude check first: it runs a check command (<code>claude plugin validate</code>) in the modê¢â¬â¢s folder.",
+            "This check shows when the mod acts on its own (the hooks) and what it asks to use. You donê¢â¬â¢t need to understand the command: the prompt below asks for a summary in plain language."
           ],
           "exemplo": {
             "rot": "No terminal",
-            "texto": "In the appâ€™s Code tab, paste the prompt below: Claude will run the check itself."
+            "texto": "In the appê¢â¬â¢s Code tab, paste the prompt below: Claude will run the check itself."
           }
         },
         {
           "titulo": "Install or decline",
           "sub": "you decide",
           "texto": [
-            "Read the plain-language summary: what it reads, what it runs, and whether it uses the internet. Unsure? Donâ€™t install it.",
+            "Read the plain-language summary: what it reads, what it runs, and whether it uses the internet. Unsure? Donê¢â¬â¢t install it.",
             "To install or turn off mods, type /plugin in the message box and use the menu that opens. The change takes effect when you close the menu."
           ]
         },
@@ -229,28 +229,28 @@
           "sub": "turn off the mod",
           "texto": [
             "If Claude starts acting strangely after you add a mod, ask in that session: \"turn off the mod [name]\" or \"uninstall the mod [name]\". Or type /plugin in the message box and turn off the mod in the menu; it takes effect when you close the menu.",
-            "For terminal users only (optional): <code>claude --safe-mode</code> opens Claude Code without any customizations if it wonâ€™t open properly."
+            "For terminal users only (optional): <code>claude --safe-mode</code> opens Claude Code without any customizations if it wonê¢â¬â¢t open properly."
           ]
         }
       ]
     },
     {
       "tipo": "codigo",
-      "titulo": "Carlaâ€™s prompt: check a mod (optional)",
+      "titulo": "Carlaê¢â¬â¢s prompt: check a mod (optional)",
       "sub": "Paste this into a session in the Code tab or terminal. Replace the link with the link to the mod you want.",
       "blocos": [
         {
           "rot": "Check before installing",
           "icone": "escudo",
-          "conteudo": "I want to check a mod before installing it: <link to the mod on GitHub>\nExamples of mods: https://github.com/linnoff88-dev/ARCKHÉ-mods\nDownload it to a separate folder and run claude plugin validate there.\nExplain it in up to 5 lines, without technical terms:\n- when it acts (hooks)\n- whether it reads my files, runs commands, or uses the internet\n- how to turn it off later\nDonâ€™t install anything until I reply YES."
+          "conteudo": "I want to check a mod before installing it: <link to the mod on GitHub>\nExamples of mods: https://github.com/linnoff88-dev/ARCKHê-mods\nDownload it to a separate folder and run claude plugin validate there.\nExplain it in up to 5 lines, without technical terms:\n- when it acts (hooks)\n- whether it reads my files, runs commands, or uses the internet\n- how to turn it off later\nDonê¢â¬â¢t install anything until I reply YES."
         },
         {
-          "rot": "If something goes wrong Â· ask Claude",
+          "rot": "If something goes wrong êÂ· ask Claude",
           "icone": "escudo",
           "conteudo": "Turn off the mod <mod name> and tell me what the list of enabled mods looks like."
         },
         {
-          "rot": "Terminal (optional) Â· if Claude Code wonâ€™t open properly",
+          "rot": "Terminal (optional) êÂ· if Claude Code wonê¢â¬â¢t open properly",
           "icone": "terminal",
           "conteudo": "claude --safe-mode"
         }
@@ -259,12 +259,12 @@
         "selo": "simulacao",
         "abas": [
           {
-            "rot": "Claudeâ€™s reply",
-            "html": "<p><b>What this mod does:</b> shows a bar in the footer with how much of the conversation has been used.</p><ul><li><b>When it acts:</b> after each response, to update the bar.</li><li><b>Files:</b> doesnâ€™t read your work files.</li><li><b>Commands and internet:</b> doesnâ€™t run external commands or use the internet.</li><li><b>Turn it off:</b> /plugin â†’ disable.</li></ul><p>Validation passed without errors. <b>Should I install it?</b> Reply YES.</p>"
+            "rot": "Claudeê¢â¬â¢s reply",
+            "html": "<p><b>What this mod does:</b> shows a bar in the footer with how much of the conversation has been used.</p><ul><li><b>When it acts:</b> after each response, to update the bar.</li><li><b>Files:</b> doesnê¢â¬â¢t read your work files.</li><li><b>Commands and internet:</b> doesnê¢â¬â¢t run external commands or use the internet.</li><li><b>Turn it off:</b> /plugin ê¢â â disable.</li></ul><p>Validation passed without errors. <b>Should I install it?</b> Reply YES.</p>"
           },
           {
             "rot": "Warning signs",
-            "html": "<ul><li>The mod asks to use the internet without a clear reason.</li><li>It reads folders outside the project.</li><li>Claude canâ€™t explain what a section of code does.</li></ul><p>If any of these apply, donâ€™t install it.</p>"
+            "html": "<ul><li>The mod asks to use the internet without a clear reason.</li><li>It reads folders outside the project.</li><li>Claude canê¢â¬â¢t explain what a section of code does.</li></ul><p>If any of these apply, donê¢â¬â¢t install it.</p>"
           }
         ]
       }
@@ -289,7 +289,7 @@
               "rot": "course feature",
               "variar": 3,
               "termos": [
-                "seÃ§Ãµes / secoes / seÃ§Ã£o / sections / secciones",
+                "seêÂ§êÂµes / secoes / seêÂ§êÂ£o / sections / secciones",
                 "side chat / /btw / btw",
                 "split view / tela dividida / split screen / pantalla dividida",
                 "subagente / subagentes / ajudante / ajudantes / subagent / subagents / helper / helpers / ayudante / ayudantes",
@@ -299,7 +299,7 @@
                 "remote control / /remote-control / /rc / control remoto",
                 "slides / claude slides",
                 "claude design",
-                "dashboard / dashboards / painel / painÃ©is / panel / paneles",
+                "dashboard / dashboards / painel / painêÂ©is / panel / paneles",
                 "claude docs / docs / documento compartilhado / shared doc / documento compartido",
                 "/rewind / rewind",
                 "/context",
@@ -314,17 +314,17 @@
               "rot": "day or time",
               "termos": [
                 "segunda / segunda-feira / segundas / monday / mondays / lunes",
-                "terÃ§a / terÃ§a-feira / terÃ§as / tuesday / tuesdays / martes",
-                "quarta / quarta-feira / quartas / wednesday / wednesdays / miÃ©rcoles",
+                "terêÂ§a / terêÂ§a-feira / terêÂ§as / tuesday / tuesdays / martes",
+                "quarta / quarta-feira / quartas / wednesday / wednesdays / miêÂ©rcoles",
                 "quinta / quinta-feira / quintas / thursday / thursdays / jueves",
                 "sexta / sexta-feira / sextas / friday / fridays / viernes",
-                "sÃ¡bado / sÃ¡bados / saturday / saturdays",
+                "sêÂ¡bado / sêÂ¡bados / saturday / saturdays",
                 "domingo / domingos / sunday / sundays",
-                "todo dia / todos os dias / toda manhÃ£ / toda tarde / toda noite / every day / every morning / daily / cada dÃ­a / todos los dÃ­as / cada maÃ±ana",
+                "todo dia / todos os dias / toda manhêÂ£ / toda tarde / toda noite / every day / every morning / daily / cada dêÂ­a / todos los dêÂ­as / cada maêÂ±ana",
                 "toda semana / todas as semanas / every week / weekly / cada semana / todas las semanas",
                 "fim de semana / weekend / fin de semana",
                 "sempre que / toda vez que / every time / whenever / siempre que / cada vez que",
-                "de manhÃ£ / Ã  tarde / Ã  noite / no almoÃ§o / in the morning / in the afternoon / at night / por la maÃ±ana / por la tarde / por la noche"
+                "de manhêÂ£ / êÂ  tarde / êÂ  noite / no almoêÂ§o / in the morning / in the afternoon / at night / por la maêÂ±ana / por la tarde / por la noche"
               ]
             }
           ]
@@ -341,23 +341,23 @@
       "exercicios": [
         {
           "id": "e1",
-          "titulo": "E1 Â· Two commands",
+          "titulo": "E1 êÂ· Two commands",
           "min": "10 min",
           "texto": "In a session for one of your projects, type /output-style and choose concise. Work for a bit, then type /recap.",
           "pronto": "The replies got shorter, and /recap gave you a one-line summary of what you did."
         },
         {
           "id": "e2",
-          "titulo": "E2 Â· One checked mod (optional)",
+          "titulo": "E2 êÂ· One checked mod (optional)",
           "min": "15 min",
-          "texto": "Choose a mod from linnoff88-dev/ARCKHÉ-mods (the repository is in Portuguese; Claudeâ€™s summary will be in English) and paste Carlaâ€™s prompt with its link. Read the summary before replying.",
+          "texto": "Choose a mod from linnoff88-dev/ARCKHê-mods (the repository is in Portuguese; Claudeê¢â¬â¢s summary will be in English) and paste Carlaê¢â¬â¢s prompt with its link. Read the summary before replying.",
           "pronto": "You have, in up to 5 lines and in simple words, what the mod can access and how to turn it off; installing it or not is your choice."
         },
         {
           "id": "e3",
-          "titulo": "E3 Â· Your routine",
+          "titulo": "E3 êÂ· Your routine",
           "min": "10 min",
-          "texto": "Choose 3 course features youâ€™ll use and write one numbered line for each: number | feature | when youâ€™ll use it | what for (e.g., 1 | side chat | Monday | questions). Paste them into the checker above and save as routine.md: the checkerâ€™s \"Download the file\" button saves the ready-to-use file. Or ask Claude, in the Code tab: \"create routine.md in the project folder with this text\" and paste in your routine.",
+          "texto": "Choose 3 course features youê¢â¬â¢ll use and write one numbered line for each: number | feature | when youê¢â¬â¢ll use it | what for (e.g., 1 | side chat | Monday | questions). Paste them into the checker above and save as routine.md: the checkerê¢â¬â¢s \"Download the file\" button saves the ready-to-use file. Or ask Claude, in the Code tab: \"create routine.md in the project folder with this text\" and paste in your routine.",
           "pronto": "routine.md is saved, and the checker replies \"OK: routine with 3 features, each with a day or time\"."
         }
       ]
@@ -368,7 +368,7 @@
       "sub": "The explanation appears after your answer.",
       "perguntas": [
         {
-          "p": "Claude gave you a bad answer, and you want to ask another way as if it hadnâ€™t happened. Whatâ€™s the fastest way?",
+          "p": "Claude gave you a bad answer, and you want to ask another way as if it hadnê¢â¬â¢t happened. Whatê¢â¬â¢s the fastest way?",
           "opcoes": [
             "Explain the mistake in several messages until it understands.",
             "Close the app and start from scratch in a new session.",
@@ -376,13 +376,13 @@
             "/rewind (or press Esc twice) and ask another way."
           ],
           "certa": 3,
-          "explica": "/rewind takes the conversation back to before the bad answer, so you can ask again. Discussing it fills up the conversation and doesnâ€™t always fix things; /recap only summarizes.",
+          "explica": "/rewind takes the conversation back to before the bad answer, so you can ask again. Discussing it fills up the conversation and doesnê¢â¬â¢t always fix things; /recap only summarizes.",
           "ref": "passos"
         },
         {
           "p": "Why ask Claude to check a mod before installing it?",
           "opcoes": [
-            "Because mods arenâ€™t isolated and can access what Claude Code can access.",
+            "Because mods arenê¢â¬â¢t isolated and can access what Claude Code can access.",
             "Because a mod installed without checking deletes the current conversation and history.",
             "Because a mod only works after Claude approves the code.",
             "Because GitHub mods only work on the Team plan."
@@ -400,7 +400,7 @@
             "/goal keep working on the course until I get back from lunch"
           ],
           "certa": 2,
-          "explica": "A clear goal is measurable: it says how many and what each item needs to include. \"Good\" or \"improve\" doesnâ€™t tell you when to stop.",
+          "explica": "A clear goal is measurable: it says how many and what each item needs to include. \"Good\" or \"improve\" doesnê¢â¬â¢t tell you when to stop.",
           "ref": "codigo"
         },
         {
@@ -424,7 +424,7 @@
             "1 | new things | every Monday | test"
           ],
           "certa": 0,
-          "explica": "One new thing, a clear moment, and a reason. â€œAll the new thingsâ€ and â€œwhenever I canâ€ donâ€™t become habits.",
+          "explica": "One new thing, a clear moment, and a reason. ê¢â¬ÅAll the new thingsê¢â¬Â and ê¢â¬Åwhenever I canê¢â¬Â donê¢â¬â¢t become habits.",
           "ref": "conferidor"
         }
       ]
@@ -435,7 +435,7 @@
       "itens": [
         {
           "t": "Slash",
-          "texto": "/rewind goes back, /context shows whatâ€™s taking up space, /recap summarizes, /goal pursues the goal, /output-style shortens."
+          "texto": "/rewind goes back, /context shows whatê¢â¬â¢s taking up space, /recap summarizes, /goal pursues the goal, /output-style shortens."
         },
         {
           "t": "Mods",
@@ -457,8 +457,8 @@
           "icone": "terminal"
         },
         {
-          "t": "18 sample mods (repository in Portuguese): linnoff88-dev/ARCKHÉ-mods",
-          "href": "https://github.com/linnoff88-dev/ARCKHÉ-mods",
+          "t": "18 sample mods (repository in Portuguese): linnoff88-dev/ARCKHê-mods",
+          "href": "https://github.com/linnoff88-dev/ARCKHê-mods",
           "icone": "camadas"
         },
         {

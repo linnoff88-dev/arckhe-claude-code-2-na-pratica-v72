@@ -1,11 +1,11 @@
-﻿{
+ï»¿{
  "slug": "ajudantes",
  "num": 3,
  "menu": "Ayudantes",
  "titulo": "Ayudantes: un trabajo grande dividido en partes",
  "titulo_curto": "Ayudantes (subagentes)",
  "minutos": 15,
- "lead": "Un guion listo puede convertirse en resumen, cortes y publicaciones. Pedir todo en una sola conversaciÃ³n la llena y mezcla las partes. Con ayudantes, la conversaciÃ³n divide el trabajo: cada ayudante hace una parte y devuelve solo el resultado. En esta clase, Carla lo hace con la clase 1 del curso de hojas de cÃ¡lculo, y tÃº lo haces con un texto tuyo.",
+ "lead": "Un guion listo puede convertirse en resumen, cortes y publicaciones. Pedir todo en una sola conversaciêÂ³n la llena y mezcla las partes. Con ayudantes, la conversaciêÂ³n divide el trabajo: cada ayudante hace una parte y devuelve solo el resultado. En esta clase, Carla lo hace con la clase 1 del curso de hojas de cêÂ¡lculo, y têÂº lo haces con un texto tuyo.",
  "objetivo": "Dividir un trabajo grande entre ayudantes (subagentes) y revisar el resultado antes de usarlo.",
  "competencias": [
   "dividir-trabajo-en-partes",
@@ -16,7 +16,7 @@
  "aprende": [
   {
    "icone": "camadas",
-   "t": "QuÃ© es un ayudante (subagente) y cuÃ¡ndo conviene usarlo"
+   "t": "QuêÂ© es un ayudante (subagente) y cuêÂ¡ndo conviene usarlo"
   },
   {
    "icone": "lista",
@@ -24,14 +24,14 @@
   },
   {
    "icone": "check",
-   "t": "Pedir una revisiÃ³n al final, con la lista de lo que se corrigiÃ³"
+   "t": "Pedir una revisiêÂ³n al final, con la lista de lo que se corrigiêÂ³"
   },
   {
    "icone": "grafico",
-   "t": "Ver cuÃ¡nto de tu lÃ­mite consumieron los ayudantes"
+   "t": "Ver cuêÂ¡nto de tu lêÂ­mite consumieron los ayudantes"
   }
  ],
- "hero_alt": "Escritorio de profesora por la noche: un guion impreso en el centro y tres hojas mÃ¡s pequeÃ±as que salen de Ã©l, cada una con una tarea diferente.",
+ "hero_alt": "Escritorio de profesora por la noche: un guion impreso en el centro y tres hojas mêÂ¡s pequeêÂ±as que salen de êÂ©l, cada una con una tarea diferente.",
  "secoes": [
   {
    "tipo": "diagrama",
@@ -52,9 +52,9 @@
     },
     {
      "icone": "chat",
-     "titulo": "ConversaciÃ³n",
+     "titulo": "ConversaciêÂ³n",
      "sub": "divide",
-     "detalhe": "Una sesiÃ³n es una conversaciÃ³n de Claude con su propio historial. Es la que recibe el pedido, separa las partes y asigna cada una a un ayudante. No tienes que abrir nada mÃ¡s: los ayudantes trabajan dentro de esa misma sesiÃ³n."
+     "detalhe": "Una sesiêÂ³n es una conversaciêÂ³n de Claude con su propio historial. Es la que recibe el pedido, separa las partes y asigna cada una a un ayudante. No tienes que abrir nada mêÂ¡s: los ayudantes trabajan dentro de esa misma sesiêÂ³n."
     },
     {
      "icone": "robo",
@@ -75,33 +75,33 @@
        "t": "publicaciones.md"
       }
      ],
-     "detalhe": "Ayudante es el nombre que este curso le da al subagente, que es el nombre oficial. Cada uno hace solo su parte, en su propio contexto (la memoria de esa tarea), y le devuelve un resumen a la conversaciÃ³n. AsÃ­, la conversaciÃ³n principal no se llena con los borradores de todos. Mucha gente lo llama \"sesiones anidadas\", pero ese no es el nombre oficial."
+     "detalhe": "Ayudante es el nombre que este curso le da al subagente, que es el nombre oficial. Cada uno hace solo su parte, en su propio contexto (la memoria de esa tarea), y le devuelve un resumen a la conversaciêÂ³n. AsêÂ­, la conversaciêÂ³n principal no se llena con los borradores de todos. Mucha gente lo llama \"sesiones anidadas\", pero ese no es el nombre oficial."
     },
     {
      "icone": "lupa",
-     "titulo": "RevisiÃ³n",
+     "titulo": "RevisiêÂ³n",
      "sub": "antes de usar",
-     "detalhe": "La conversaciÃ³n compara las tres partes con el guion: tiempos, nombres, nÃºmeros y tono. Corrige lo que no coincide y lo anota. Sin este paso, un error de un ayudante te llega directamente."
+     "detalhe": "La conversaciêÂ³n compara las tres partes con el guion: tiempos, nombres, nêÂºmeros y tono. Corrige lo que no coincide y lo anota. Sin este paso, un error de un ayudante te llega directamente."
     },
     {
      "icone": "check",
      "titulo": "Entrega",
      "sub": "archivos + lista",
-     "detalhe": "Recibes los tres archivos en la carpeta y una lista breve de lo que se corrigiÃ³. Ahora te toca revisar: abre un archivo y comprueba un dato con el guion."
+     "detalhe": "Recibes los tres archivos en la carpeta y una lista breve de lo que se corrigiêÂ³. Ahora te toca revisar: abre un archivo y comprueba un dato con el guion."
     }
    ],
-   "volta": "Â¿Una parte no quedÃ³ bien? Pide que rehaga solo esa parte",
-   "legenda": "Ejemplo de Carla: guion de la clase 1 â†’ resumen, cortes y publicaciones. Los ayudantes estÃ¡n en la app (pestaÃ±a Code) y en la terminal.",
+   "volta": "êÂ¿Una parte no quedêÂ³ bien? Pide que rehaga solo esa parte",
+   "legenda": "Ejemplo de Carla: guion de la clase 1 ê¢â â resumen, cortes y publicaciones. Los ayudantes estêÂ¡n en la app (pestaêÂ±a Code) y en la terminal.",
    "rolagem": true,
    "rolagem_fim": {
     "titulo": "El proceso completo",
-    "texto": "Pides todo el trabajo ya dividido. La conversaciÃ³n asigna una parte a cada ayudante, reÃºne las respuestas, las compara con el original y te devuelve los archivos con la lista de lo que corrigiÃ³.",
-    "curto": "Pedido â†’ partes â†’ revisiÃ³n â†’ entrega."
+    "texto": "Pides todo el trabajo ya dividido. La conversaciêÂ³n asigna una parte a cada ayudante, reêÂºne las respuestas, las compara con el original y te devuelve los archivos con la lista de lo que corrigiêÂ³.",
+    "curto": "Pedido ê¢â â partes ê¢â â revisiêÂ³n ê¢â â entrega."
    }
   },
   {
    "tipo": "passos",
-   "titulo": "CÃ³mo pedirlo para que salga bien",
+   "titulo": "CêÂ³mo pedirlo para que salga bien",
    "sub": "Cuatro cuidados. Haz clic en cada uno.",
    "passos": [
     {
@@ -109,19 +109,19 @@
      "sub": "una no tiene que esperar a la otra",
      "texto": [
       "Los ayudantes funcionan bien cuando cada parte avanza por su cuenta. El resumen, los cortes y las publicaciones salen del mismo guion, pero una no necesita esperar a la otra.",
-      "Si la parte B depende del resultado de la parte A, haz primero la A y despuÃ©s pide la B."
+      "Si la parte B depende del resultado de la parte A, haz primero la A y despuêÂ©s pide la B."
      ],
      "exemplo": {
       "rot": "Ideal para ayudantes",
-      "texto": "Resumen, cortes y publicaciones de la misma clase. O: revisar la ortografÃ­a de 3 clases diferentes."
+      "texto": "Resumen, cortes y publicaciones de la misma clase. O: revisar la ortografêÂ­a de 3 clases diferentes."
      }
     },
     {
      "titulo": "Una entrega cada uno",
      "sub": "archivo y largo",
      "texto": [
-      "Di quÃ© entrega cada ayudante, en quÃ© archivo y de quÃ© largo. Â«Haz algunas publicacionesÂ» no tiene fin; Â«3 publicaciones de hasta 280 caracteres en publicaciones.mdÂ» sÃ­.",
-      "Con la entrega clara, la revisiÃ³n sabe quÃ© buscar."
+      "Di quêÂ© entrega cada ayudante, en quêÂ© archivo y de quêÂ© largo. êÂ«Haz algunas publicacionesêÂ» no tiene fin; êÂ«3 publicaciones de hasta 280 caracteres en publicaciones.mdêÂ» sêÂ­.",
+      "Con la entrega clara, la revisiêÂ³n sabe quêÂ© buscar."
      ],
      "exemplo": {
       "rot": "Entrega clara",
@@ -129,26 +129,26 @@
      }
     },
     {
-     "titulo": "RevisiÃ³n al final",
+     "titulo": "RevisiêÂ³n al final",
      "sub": "con la lista",
      "texto": [
-      "Pide que la conversaciÃ³n compare las partes con el original y enumere lo que corrigiÃ³. Si no hay nada que corregir, debe decir cÃ³mo lo comprobÃ³.",
-      "La lista es tu atajo: primero miras lo que se corrigiÃ³."
+      "Pide que la conversaciêÂ³n compare las partes con el original y enumere lo que corrigiêÂ³. Si no hay nada que corregir, debe decir cêÂ³mo lo comprobêÂ³.",
+      "La lista es tu atajo: primero miras lo que se corrigiêÂ³."
      ],
      "exemplo": {
       "rot": "Frase lista",
-      "texto": "Al final, compara los tres archivos con el guion y dime en una lista quÃ© corregiste."
+      "texto": "Al final, compara los tres archivos con el guion y dime en una lista quêÂ© corregiste."
      }
     },
     {
      "titulo": "Revisa el consumo",
      "sub": "empieza con 2 o 3",
      "texto": [
-      "Cada ayudante tiene su propio contexto, y eso consume el lÃ­mite de tu plan. Empieza con 2 o 3 ayudantes, no con 20.",
-      "En la app, el anillo de uso es un cÃ­rculo al lado de donde eliges el modelo y muestra cuÃ¡nto del lÃ­mite ya se usÃ³. En la terminal (opcional), <code>/usage</code> muestra el uso del plan y <code>/context</code> muestra cuÃ¡nto espacio de la conversaciÃ³n ya estÃ¡ ocupado."
+      "Cada ayudante tiene su propio contexto, y eso consume el lêÂ­mite de tu plan. Empieza con 2 o 3 ayudantes, no con 20.",
+      "En la app, el anillo de uso es un cêÂ­rculo al lado de donde eliges el modelo y muestra cuêÂ¡nto del lêÂ­mite ya se usêÂ³. En la terminal (opcional), <code>/usage</code> muestra el uso del plan y <code>/context</code> muestra cuêÂ¡nto espacio de la conversaciêÂ³n ya estêÂ¡ ocupado."
      ],
      "exemplo": {
-      "rot": "Para ir mÃ¡s lejos",
+      "rot": "Para ir mêÂ¡s lejos",
       "texto": "Coordinar varias sesiones al mismo tiempo es otro tema: mira el curso <a href=\"https://linnoff88-dev.github.io/ como gestor de agentes</a>."
      }
     }
@@ -157,33 +157,33 @@
   {
    "tipo": "codigo",
    "titulo": "El pedido de Carla",
-   "sub": "El primero es el pedido de Carla, en una lista. El segundo es la plantilla para ti: el mismo pedido, un campo por lÃ­nea. Pasa la comprobaciÃ³n de abajo y funciona si lo pegas directamente en la conversaciÃ³n. Cambia lo que estÃ¡ entre < > por lo tuyo, y la ruta curso-hojas-de-calculo/â€¦ por la de tu archivo (.md, Word o PDF; mira la clase 2).",
+   "sub": "El primero es el pedido de Carla, en una lista. El segundo es la plantilla para ti: el mismo pedido, un campo por lêÂ­nea. Pasa la comprobaciêÂ³n de abajo y funciona si lo pegas directamente en la conversaciêÂ³n. Cambia lo que estêÂ¡ entre < > por lo tuyo, y la ruta curso-hojas-de-calculo/ê¢â¬Â¦ por la de tu archivo (.md, Word o PDF; mira la clase 2).",
    "blocos": [
     {
-     "rot": "Pedido Â· clase 1 en tres partes",
+     "rot": "Pedido êÂ· clase 1 en tres partes",
      "icone": "chat",
-     "conteudo": "Lee el guion de la clase 1 en curso-hojas-de-calculo/clase-1/guion.md.\nUsa un subagente para cada elemento de abajo. Cada uno hace solo su parte y guarda el resultado:\n1. Un resumen de la clase, de hasta 150 palabras, en curso-hojas-de-calculo/clase-1/resumen.md\n2. 5 cortes para el canal, cada uno con inicio, fin y una frase gancho, en curso-hojas-de-calculo/clase-1/cortes.md\n3. 3 publicaciones cortas para redes sociales, de hasta 280 caracteres cada una, en curso-hojas-de-calculo/clase-1/publicaciones.md\nAl final, compara los tres archivos con el guion (marcas de tiempo, nombres de funciones, nÃºmeros).\nCorrige lo que no coincida y dime en una lista quÃ© corregiste.\nNo publiques nada ni modifiques el guion."
+     "conteudo": "Lee el guion de la clase 1 en curso-hojas-de-calculo/clase-1/guion.md.\nUsa un subagente para cada elemento de abajo. Cada uno hace solo su parte y guarda el resultado:\n1. Un resumen de la clase, de hasta 150 palabras, en curso-hojas-de-calculo/clase-1/resumen.md\n2. 5 cortes para el canal, cada uno con inicio, fin y una frase gancho, en curso-hojas-de-calculo/clase-1/cortes.md\n3. 3 publicaciones cortas para redes sociales, de hasta 280 caracteres cada una, en curso-hojas-de-calculo/clase-1/publicaciones.md\nAl final, compara los tres archivos con el guion (marcas de tiempo, nombres de funciones, nêÂºmeros).\nCorrige lo que no coincida y dime en una lista quêÂ© corregiste.\nNo publiques nada ni modifiques el guion."
     },
     {
-     "rot": "Plantilla Â· pedido-ayudantes.txt (la tuya)",
+     "rot": "Plantilla êÂ· pedido-ayudantes.txt (la tuya)",
      "icone": "copiar",
-     "conteudo": "Trabajo: <quÃ© hacer y dÃ³nde estÃ¡ el texto original, ej.: carpeta/texto.md>\nAyudante 1: un subagente hace <entrega 1, con largo> y la guarda en <archivo1.md>\nAyudante 2: un subagente hace <entrega 2, con largo> y la guarda en <archivo2.md>\nAyudante 3: un subagente hace <entrega 3, con largo> y la guarda en <archivo3.md>\nRevisiÃ³n: al final, compara los tres archivos con el texto original y dime en una lista quÃ© corregiste.\nLÃ­mites: no publiques nada ni modifiques el texto original."
+     "conteudo": "Trabajo: <quêÂ© hacer y dêÂ³nde estêÂ¡ el texto original, ej.: carpeta/texto.md>\nAyudante 1: un subagente hace <entrega 1, con largo> y la guarda en <archivo1.md>\nAyudante 2: un subagente hace <entrega 2, con largo> y la guarda en <archivo2.md>\nAyudante 3: un subagente hace <entrega 3, con largo> y la guarda en <archivo3.md>\nRevisiêÂ³n: al final, compara los tres archivos con el texto original y dime en una lista quêÂ© corregiste.\nLêÂ­mites: no publiques nada ni modifiques el texto original."
     }
    ],
    "saida": {
     "selo": "simulacao",
     "abas": [
      {
-      "rot": "Lo que devolviÃ³ Claude",
-      "html": "<p>Listo. Los tres subagentes terminaron y comparÃ© todo con el guion.</p><p><b>Archivos</b></p><ul><li>resumen.md Â· 132 palabras</li><li>cortes.md Â· 5 cortes</li><li>publicaciones.md Â· 3 publicaciones</li></ul><p><b>Lo que corregÃ­</b></p><ol><li>El corte 4 terminaba en 12:40, pero el guion termina en 11:05. Lo cambiÃ© por el fragmento de BUSCARV, de 08:15 a 08:52.</li><li>La publicaciÃ³n 2 decÃ­a Â«Excel avanzadoÂ». La clase es para principiantes; lo cambiÃ© por Â«hojas de cÃ¡lculo desde ceroÂ».</li><li>El resumen llamaba a la funciÃ³n Â«SUMA.SIÂ» y el guion usa Â«SUMAR.SIÂ». Lo dejÃ© igual que en el guion.</li></ol><p>No se publicÃ³ nada. El guion no se modificÃ³.</p>"
+      "rot": "Lo que devolviêÂ³ Claude",
+      "html": "<p>Listo. Los tres subagentes terminaron y comparêÂ© todo con el guion.</p><p><b>Archivos</b></p><ul><li>resumen.md êÂ· 132 palabras</li><li>cortes.md êÂ· 5 cortes</li><li>publicaciones.md êÂ· 3 publicaciones</li></ul><p><b>Lo que corregêÂ­</b></p><ol><li>El corte 4 terminaba en 12:40, pero el guion termina en 11:05. Lo cambiêÂ© por el fragmento de BUSCARV, de 08:15 a 08:52.</li><li>La publicaciêÂ³n 2 decêÂ­a êÂ«Excel avanzadoêÂ». La clase es para principiantes; lo cambiêÂ© por êÂ«hojas de cêÂ¡lculo desde ceroêÂ».</li><li>El resumen llamaba a la funciêÂ³n êÂ«SUMA.SIêÂ» y el guion usa êÂ«SUMAR.SIêÂ». Lo dejêÂ© igual que en el guion.</li></ol><p>No se publicêÂ³ nada. El guion no se modificêÂ³.</p>"
      },
      {
-      "rot": "CÃ³mo comprobarlo",
-      "html": "<ol><li>Abre la carpeta curso-hojas-de-calculo/clase-1: ahÃ­ estÃ¡n los tres archivos nuevos.</li><li>Elige un elemento de la lista de correcciones y compruÃ©balo en el guion (por ejemplo: Â¿el guion realmente termina en 11:05?).</li><li>Abre cortes.md y compara un corte completo con el guion.</li><li>Mira el anillo de uso en la app (o <code>/usage</code> en la terminal) para saber cuÃ¡nto consumiÃ³ el trabajo.</li></ol>"
+      "rot": "CêÂ³mo comprobarlo",
+      "html": "<ol><li>Abre la carpeta curso-hojas-de-calculo/clase-1: ahêÂ­ estêÂ¡n los tres archivos nuevos.</li><li>Elige un elemento de la lista de correcciones y compruêÂ©balo en el guion (por ejemplo: êÂ¿el guion realmente termina en 11:05?).</li><li>Abre cortes.md y compara un corte completo con el guion.</li><li>Mira el anillo de uso en la app (o <code>/usage</code> en la terminal) para saber cuêÂ¡nto consumiêÂ³ el trabajo.</li></ol>"
      },
      {
       "rot": "Errores comunes",
-      "html": "<ul><li><b>Sin revisiÃ³n</b>: cada ayudante hace bien su parte, pero nadie la compara con el original. El error llega hasta ti.</li><li><b>Partes que dependen una de otra</b>: el ayudante de las publicaciones necesitaba el resumen terminado e inventÃ³ el suyo.</li><li><b>Entrega sin largo definido</b>: Â«haz algunas publicacionesÂ» da como resultado 12 publicaciones largas y pierdes tiempo recortÃ¡ndolas.</li><li><b>Demasiados ayudantes</b>: cada uno consume parte de tu lÃ­mite. Empieza con 2 o 3.</li></ul>"
+      "html": "<ul><li><b>Sin revisiêÂ³n</b>: cada ayudante hace bien su parte, pero nadie la compara con el original. El error llega hasta ti.</li><li><b>Partes que dependen una de otra</b>: el ayudante de las publicaciones necesitaba el resumen terminado e inventêÂ³ el suyo.</li><li><b>Entrega sin largo definido</b>: êÂ«haz algunas publicacionesêÂ» da como resultado 12 publicaciones largas y pierdes tiempo recortêÂ¡ndolas.</li><li><b>Demasiados ayudantes</b>: cada uno consume parte de tu lêÂ­mite. Empieza con 2 o 3.</li></ul>"
      }
     ]
    }
@@ -191,10 +191,10 @@
   {
    "tipo": "conferidor",
    "titulo": "Revisa tu pedido antes de enviarlo",
-   "sub": "Escribe tu pedido con este formato (un campo por lÃ­nea) y pÃ©galo aquÃ­. La pÃ¡gina comprueba si cada ayudante es un subagente con un archivo de entrega, si la RevisiÃ³n compara con el original y pide la lista de lo que se corrigiÃ³, y si los LÃ­mites indican quÃ© no hacer. Es una comprobaciÃ³n de formato: tÃº decides si las partes tienen sentido.",
+   "sub": "Escribe tu pedido con este formato (un campo por lêÂ­nea) y pêÂ©galo aquêÂ­. La pêÂ¡gina comprueba si cada ayudante es un subagente con un archivo de entrega, si la RevisiêÂ³n compara con el original y pide la lista de lo que se corrigiêÂ³, y si los LêÂ­mites indican quêÂ© no hacer. Es una comprobaciêÂ³n de formato: têÂº decides si las partes tienen sentido.",
    "arquivo": "pedido-ayudantes.txt",
-   "rot": "Pega aquÃ­ tu pedido (un campo por lÃ­nea):",
-   "modelo": "Trabajo: ...\nAyudante 1: ...\nAyudante 2: ...\nAyudante 3: ...\nRevisiÃ³n: ...\nLÃ­mites: ...",
+   "rot": "Pega aquêÂ­ tu pedido (un campo por lêÂ­nea):",
+   "modelo": "Trabajo: ...\nAyudante 1: ...\nAyudante 2: ...\nAyudante 3: ...\nRevisiêÂ³n: ...\nLêÂ­mites: ...",
    "regras": [
     {
      "tipo": "campos",
@@ -203,8 +203,8 @@
       "Ayudante 1",
       "Ayudante 2",
       "Ayudante 3",
-      "RevisiÃ³n",
-      "LÃ­mites"
+      "RevisiêÂ³n",
+      "LêÂ­mites"
      ],
      "min": 12
     },
@@ -269,25 +269,25 @@
      "tipo": "termos",
      "grupos": [
       {
-       "rot": "en la RevisiÃ³n, la comparaciÃ³n con el original",
-       "campo": "RevisiÃ³n",
+       "rot": "en la RevisiêÂ³n, la comparaciêÂ³n con el original",
+       "campo": "RevisiêÂ³n",
        "termos": [
         "confira / conferir / confere / compare / comparar / compara / check / verify / compare against / revise / revisar / revisa / verifique / verificar / verifica / comprueba / comprobar / coteje / cotejar / contra o / against / contra el"
        ]
       },
       {
-       "rot": "en la RevisiÃ³n, la lista de lo que se corrigiÃ³",
-       "campo": "RevisiÃ³n",
+       "rot": "en la RevisiêÂ³n, la lista de lo que se corrigiêÂ³",
+       "campo": "RevisiêÂ³n",
        "termos": [
-        "corrigiu / corrigido / corrigidos / corrigida / corrigidas / correÃ§Ãµes / correcoes / o que mudou / corrected / fixed / corrections / what changed / corrigiÃ³ / corregido / corregidos / correcciones / lo que cambiÃ³ / corregiste / corrijas / quÃ© corregiste"
+        "corrigiu / corrigido / corrigidos / corrigida / corrigidas / correêÂ§êÂµes / correcoes / o que mudou / corrected / fixed / corrections / what changed / corrigiêÂ³ / corregido / corregidos / correcciones / lo que cambiêÂ³ / corregiste / corrijas / quêÂ© corregiste"
        ]
       },
       {
-       "rot": "RevisiÃ³n sin criterio",
-       "campo": "RevisiÃ³n",
+       "rot": "RevisiêÂ³n sin criterio",
+       "campo": "RevisiêÂ³n",
        "proibe": true,
        "termos": [
-        "se achar necessÃ¡rio / se achar necessario / se quiser / o que achar melhor / se der tempo / if needed / if you want / as you see fit / si quieres / si hace falta / lo que creas mejor"
+        "se achar necessêÂ¡rio / se achar necessario / se quiser / o que achar melhor / se der tempo / if needed / if you want / as you see fit / si quieres / si hace falta / lo que creas mejor"
        ]
       }
      ]
@@ -296,110 +296,110 @@
      "tipo": "termos",
      "grupos": [
       {
-       "rot": "en los LÃ­mites, quÃ© no hacer",
-       "campo": "LÃ­mites",
+       "rot": "en los LêÂ­mites, quêÂ© no hacer",
+       "campo": "LêÂ­mites",
        "termos": [
-        "nÃ£o publique / nao publique / nÃ£o apague / nao apague / nÃ£o altere / nao altere / nÃ£o mexa / nao mexa / nÃ£o envie / nao envie / don't publish / do not publish / don't delete / do not delete / don't change / do not change / don't touch / do not touch / no publiques / no modifiques / no subas / no edites / no publique / no borres / no borre / no cambies / no cambie / no toques / no toque / no envÃ­es / no envÃ­e"
+        "nêÂ£o publique / nao publique / nêÂ£o apague / nao apague / nêÂ£o altere / nao altere / nêÂ£o mexa / nao mexa / nêÂ£o envie / nao envie / don't publish / do not publish / don't delete / do not delete / don't change / do not change / don't touch / do not touch / no publiques / no modifiques / no subas / no edites / no publique / no borres / no borre / no cambies / no cambie / no toques / no toque / no envêÂ­es / no envêÂ­e"
        ]
       }
      ]
     }
    ],
-   "ok": "OK: pedido con los {n} campos, un subagente por parte y revisiÃ³n con lista",
-   "exemplo": "Trabajo: transformar el guion de la clase 1 (curso-hojas-de-calculo/clase-1/guion.md) en material para el canal y las redes.\nAyudante 1: un subagente escribe un resumen de hasta 150 palabras y lo guarda en resumen.md.\nAyudante 2: un subagente elige 5 cortes con inicio, fin y frase gancho y los guarda en cortes.md.\nAyudante 3: un subagente escribe 3 publicaciones de hasta 280 caracteres y las guarda en publicaciones.md.\nRevisiÃ³n: al final, compara los tres archivos con el guion (minutaje, nombres de funciones, nÃºmeros) y dime en una lista quÃ© corregiste.\nLÃ­mites: no publiques nada ni modifiques el guion.",
-   "exemplo_errado": "Trabajo: aprovechar la clase 1 del curso de hojas de cÃ¡lculo.\nAyudante 1: haz un buen resumen de la clase.\nAyudante 2: selecciona algunos cortes buenos para el canal.\nAyudante 3: escribe algunas publicaciones para las redes.\nRevisiÃ³n: da una mirada general si lo consideras necesario.\nLÃ­mites: siÃ©ntete libre de hacer lo que te parezca mejor."
+   "ok": "OK: pedido con los {n} campos, un subagente por parte y revisiêÂ³n con lista",
+   "exemplo": "Trabajo: transformar el guion de la clase 1 (curso-hojas-de-calculo/clase-1/guion.md) en material para el canal y las redes.\nAyudante 1: un subagente escribe un resumen de hasta 150 palabras y lo guarda en resumen.md.\nAyudante 2: un subagente elige 5 cortes con inicio, fin y frase gancho y los guarda en cortes.md.\nAyudante 3: un subagente escribe 3 publicaciones de hasta 280 caracteres y las guarda en publicaciones.md.\nRevisiêÂ³n: al final, compara los tres archivos con el guion (minutaje, nombres de funciones, nêÂºmeros) y dime en una lista quêÂ© corregiste.\nLêÂ­mites: no publiques nada ni modifiques el guion.",
+   "exemplo_errado": "Trabajo: aprovechar la clase 1 del curso de hojas de cêÂ¡lculo.\nAyudante 1: haz un buen resumen de la clase.\nAyudante 2: selecciona algunos cortes buenos para el canal.\nAyudante 3: escribe algunas publicaciones para las redes.\nRevisiêÂ³n: da una mirada general si lo consideras necesario.\nLêÂ­mites: siêÂ©ntete libre de hacer lo que te parezca mejor."
   },
   {
    "tipo": "pratica",
-   "titulo": "PrÃ¡ctica: un texto tuyo en tres partes",
-   "sub": "Usa un texto que ya tengas: guion, clase, artÃ­culo o acta. En la app de escritorio (pestaÃ±a Code) o en la terminal; en Linux, solo en la terminal.",
+   "titulo": "PrêÂ¡ctica: un texto tuyo en tres partes",
+   "sub": "Usa un texto que ya tengas: guion, clase, artêÂ­culo o acta. En la app de escritorio (pestaêÂ±a Code) o en la terminal; en Linux, solo en la terminal.",
    "exercicios": [
     {
      "id": "e1",
-     "titulo": "E1 Â· El pedido",
+     "titulo": "E1 êÂ· El pedido",
      "min": "10 min",
-     "texto": "Elige el texto y las tres entregas (por ejemplo: resumen, cortes y publicaciones; o resumen, preguntas para el examen y correo a los alumnos). Completa la plantilla pedido-ayudantes.txt. Si tu texto no tiene minutaje, pide Â«el fragmentoÂ» en lugar del inicio y el fin.",
-     "pronto": "el verificador de arriba responde Â«OK: pedido con los 6 campos, un subagente por parte y revisiÃ³n con listaÂ»."
+     "texto": "Elige el texto y las tres entregas (por ejemplo: resumen, cortes y publicaciones; o resumen, preguntas para el examen y correo a los alumnos). Completa la plantilla pedido-ayudantes.txt. Si tu texto no tiene minutaje, pide êÂ«el fragmentoêÂ» en lugar del inicio y el fin.",
+     "pronto": "el verificador de arriba responde êÂ«OK: pedido con los 6 campos, un subagente por parte y revisiêÂ³n con listaêÂ»."
     },
     {
      "id": "e2",
-     "titulo": "E2 Â· Trabajar con ayudantes",
+     "titulo": "E2 êÂ· Trabajar con ayudantes",
      "min": "15 min",
-     "texto": "Abre una sesiÃ³n en la carpeta del texto (en la app: pestaÃ±a Code, elige la carpeta al abrir la sesiÃ³n, como en la clase 2; en la terminal, opcionalmente: entra en la carpeta y escribe claude). Pega el pedido-ayudantes.txt que pasÃ³ el verificador, tal como estÃ¡, y espera la respuesta final.",
-     "pronto": "los 3 archivos que pediste existen en la carpeta y la respuesta final incluye la lista de lo que se corrigiÃ³ (o explica cÃ³mo se verificÃ³, si no se corrigiÃ³ nada)."
+     "texto": "Abre una sesiêÂ³n en la carpeta del texto (en la app: pestaêÂ±a Code, elige la carpeta al abrir la sesiêÂ³n, como en la clase 2; en la terminal, opcionalmente: entra en la carpeta y escribe claude). Pega el pedido-ayudantes.txt que pasêÂ³ el verificador, tal como estêÂ¡, y espera la respuesta final.",
+     "pronto": "los 3 archivos que pediste existen en la carpeta y la respuesta final incluye la lista de lo que se corrigiêÂ³ (o explica cêÂ³mo se verificêÂ³, si no se corrigiêÂ³ nada)."
     },
     {
      "id": "e3",
-     "titulo": "E3 Â· Tu revisiÃ³n",
+     "titulo": "E3 êÂ· Tu revisiêÂ³n",
      "min": "10 min",
-     "texto": "Toma un elemento de la lista de correcciones y verifÃ­calo en el texto original. DespuÃ©s abre uno de los archivos y verifica toda la informaciÃ³n de un elemento (un corte, una fecha, un nombre). Por Ãºltimo, mira el anillo de uso en la app (el cÃ­rculo junto a donde eliges el modelo) o escribe /usage.",
-     "pronto": "verificaste 2 datos con el original y miraste el anillo de uso o /usage para ver cuÃ¡nto del lÃ­mite consumiÃ³ el trabajo."
+     "texto": "Toma un elemento de la lista de correcciones y verifêÂ­calo en el texto original. DespuêÂ©s abre uno de los archivos y verifica toda la informaciêÂ³n de un elemento (un corte, una fecha, un nombre). Por êÂºltimo, mira el anillo de uso en la app (el cêÂ­rculo junto a donde eliges el modelo) o escribe /usage.",
+     "pronto": "verificaste 2 datos con el original y miraste el anillo de uso o /usage para ver cuêÂ¡nto del lêÂ­mite consumiêÂ³ el trabajo."
     }
    ]
   },
   {
    "tipo": "quiz",
    "titulo": "Pon a prueba lo que aprendiste",
-   "sub": "La explicaciÃ³n aparece despuÃ©s de tu respuesta.",
+   "sub": "La explicaciêÂ³n aparece despuêÂ©s de tu respuesta.",
    "perguntas": [
     {
-     "p": "Â¿QuÃ© es un ayudante (subagente) en Claude Code?",
+     "p": "êÂ¿QuêÂ© es un ayudante (subagente) en Claude Code?",
      "opcoes": [
       "Una segunda cuenta de Claude que contratas y pagas por separado, cada mes.",
-      "Un ayudante extra, en la misma sesiÃ³n, que hace una parte y te devuelve el resultado.",
-      "Una segunda sesiÃ³n que tÃº mismo abres junto a la primera usando la vista dividida.",
-      "Un modelo mÃ¡s potente que lee y revisa todas las respuestas al final de la conversaciÃ³n."
+      "Un ayudante extra, en la misma sesiêÂ³n, que hace una parte y te devuelve el resultado.",
+      "Una segunda sesiêÂ³n que têÂº mismo abres junto a la primera usando la vista dividida.",
+      "Un modelo mêÂ¡s potente que lee y revisa todas las respuestas al final de la conversaciêÂ³n."
      ],
      "certa": 1,
-     "explica": "La conversaciÃ³n divide el trabajo y cada ayudante hace una parte dentro de la misma sesiÃ³n. El error comÃºn es confundirlo con la vista dividida, donde tÃº abres dos sesiones una al lado de la otra (clase 2).",
+     "explica": "La conversaciêÂ³n divide el trabajo y cada ayudante hace una parte dentro de la misma sesiêÂ³n. El error comêÂºn es confundirlo con la vista dividida, donde têÂº abres dos sesiones una al lado de la otra (clase 2).",
      "ref": "diagrama"
     },
     {
-     "p": "Â¿CuÃ¡l de estos trabajos se presta mejor para usar ayudantes?",
+     "p": "êÂ¿CuêÂ¡l de estos trabajos se presta mejor para usar ayudantes?",
      "opcoes": [
-      "Escribir una publicaciÃ³n y luego usarla para elegir la portada.",
-      "Responder una duda rÃ¡pida sobre una fÃ³rmula.",
+      "Escribir una publicaciêÂ³n y luego usarla para elegir la portada.",
+      "Responder una duda rêÂ¡pida sobre una fêÂ³rmula.",
       "Corregir una coma en el guion.",
-      "Revisar la ortografÃ­a de tres clases distintas."
+      "Revisar la ortografêÂ­a de tres clases distintas."
      ],
      "certa": 3,
-     "explica": "Tres partes independientes, una por ayudante. La publicaciÃ³n seguida de la portada es el error comÃºn: la segunda parte depende de la primera, asÃ­ que hazlas en orden.",
+     "explica": "Tres partes independientes, una por ayudante. La publicaciêÂ³n seguida de la portada es el error comêÂºn: la segunda parte depende de la primera, asêÂ­ que hazlas en orden.",
      "ref": "passos"
     },
     {
-     "p": "Â¿Por quÃ© pedir una revisiÃ³n al final?",
+     "p": "êÂ¿Por quêÂ© pedir una revisiêÂ³n al final?",
      "opcoes": [
       "Porque cada ayudante solo ve su parte; alguien tiene que comparar todo con el original antes de que te llegue.",
       "Porque sin ella los ayudantes no guardan los archivos.",
-      "Porque la revisiÃ³n hace que el trabajo cueste menos.",
-      "Porque la revisiÃ³n es la que recibe el pedido completo, decide cuÃ¡ntos ayudantes abrir y le asigna una parte a cada uno."
+      "Porque la revisiêÂ³n hace que el trabajo cueste menos.",
+      "Porque la revisiêÂ³n es la que recibe el pedido completo, decide cuêÂ¡ntos ayudantes abrir y le asigna una parte a cada uno."
      ],
      "certa": 0,
-     "explica": "En el ejemplo de Carla, la revisiÃ³n encontrÃ³ un corte fuera del tiempo del guion y un nombre de funciÃ³n incorrecto. Sin ella, esos errores habrÃ­an llegado directamente al canal.",
+     "explica": "En el ejemplo de Carla, la revisiêÂ³n encontrêÂ³ un corte fuera del tiempo del guion y un nombre de funciêÂ³n incorrecto. Sin ella, esos errores habrêÂ­an llegado directamente al canal.",
      "ref": "codigo"
     },
     {
-     "p": "En el pedido, Â¿quÃ© lÃ­nea de RevisiÃ³n acepta la pÃ¡gina?",
+     "p": "En el pedido, êÂ¿quêÂ© lêÂ­nea de RevisiêÂ³n acepta la pêÂ¡gina?",
      "opcoes": [
-      "RevisiÃ³n: da una mirada general a los archivos si lo consideras necesario.",
-      "RevisiÃ³n: todo estÃ¡ bien, puedes confiar en los ayudantes.",
-      "RevisiÃ³n: compara con el guion y enumera lo que corregiste.",
-      "RevisiÃ³n: haz la revisiÃ³n que prefieras al final."
+      "RevisiêÂ³n: da una mirada general a los archivos si lo consideras necesario.",
+      "RevisiêÂ³n: todo estêÂ¡ bien, puedes confiar en los ayudantes.",
+      "RevisiêÂ³n: compara con el guion y enumera lo que corregiste.",
+      "RevisiêÂ³n: haz la revisiêÂ³n que prefieras al final."
      ],
      "certa": 2,
-     "explica": "Indica quÃ© comparar y pide la lista de los cambios, asÃ­ puedes revisar. Â«Si lo consideras necesarioÂ» deja la revisiÃ³n como opcional, y el error pasa.",
+     "explica": "Indica quêÂ© comparar y pide la lista de los cambios, asêÂ­ puedes revisar. êÂ«Si lo consideras necesarioêÂ» deja la revisiêÂ³n como opcional, y el error pasa.",
      "ref": "conferidor"
     },
     {
-     "p": "Carla quiere usar 20 ayudantes a la vez. Â¿CuÃ¡l es el mejor consejo?",
+     "p": "Carla quiere usar 20 ayudantes a la vez. êÂ¿CuêÂ¡l es el mejor consejo?",
      "opcoes": [
       "Puedes hacerlo: los ayudantes no consumen nada de tu plan.",
-      "Empieza con 2 o 3 y revisa el anillo de uso o /usage, porque cada ayudante consume parte de tu lÃ­mite.",
-      "Usa 20, pero sin revisiÃ³n, para ahorrar.",
+      "Empieza con 2 o 3 y revisa el anillo de uso o /usage, porque cada ayudante consume parte de tu lêÂ­mite.",
+      "Usa 20, pero sin revisiêÂ³n, para ahorrar.",
       "Abre 20 sesiones en vista dividida en lugar de usar ayudantes."
      ],
      "certa": 1,
-     "explica": "Cada ayudante tiene su propio contexto y consume parte de tu lÃ­mite. El error comÃºn es pensar que son gratis. Para coordinar muchas sesiones de verdad, existe el curso Claude como gestor de agentes.",
+     "explica": "Cada ayudante tiene su propio contexto y consume parte de tu lêÂ­mite. El error comêÂºn es pensar que son gratis. Para coordinar muchas sesiones de verdad, existe el curso Claude como gestor de agentes.",
      "ref": "passos"
     }
    ]
@@ -414,11 +414,11 @@
     },
     {
      "t": "Entrega clara",
-     "texto": "Asigna a cada ayudante un archivo y un tamaÃ±o; empieza con dos o tres."
+     "texto": "Asigna a cada ayudante un archivo y un tamaêÂ±o; empieza con dos o tres."
     },
     {
-     "t": "RevisiÃ³n siempre",
-     "texto": "La conversaciÃ³n compara con el original y enumera lo que corrigiÃ³; despuÃ©s revisas una informaciÃ³n."
+     "t": "RevisiêÂ³n siempre",
+     "texto": "La conversaciêÂ³n compara con el original y enumera lo que corrigiêÂ³; despuêÂ©s revisas una informaciêÂ³n."
     }
    ]
   },
@@ -427,7 +427,7 @@
    "titulo": "Para profundizar",
    "links": [
     {
-     "t": "Claude Code en la app de escritorio (documentaciÃ³n oficial, en inglÃ©s)",
+     "t": "Claude Code en la app de escritorio (documentaciêÂ³n oficial, en inglêÂ©s)",
      "href": "https://code.claude.com/docs/en/desktop",
      "icone": "lista"
     },
@@ -437,7 +437,7 @@
      "icone": "robo"
     },
     {
-     "t": "GuÃ­a de las 13 novedades de Claude Code",
+     "t": "GuêÂ­a de las 13 novedades de Claude Code",
      "href": "https://linnoff88-dev.github.io/
      "icone": "arquivo"
     }
